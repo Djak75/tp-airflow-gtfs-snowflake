@@ -1,0 +1,6 @@
+pandas
+pyarrow
+requests
+gtfs-realtime-bindings
+duckdb
+python-dotenv
