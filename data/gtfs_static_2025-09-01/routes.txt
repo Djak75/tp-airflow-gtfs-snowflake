@@ -1,0 +1,115 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+05,lignes-d-azur,05,Rimiez Saint-George/Rimiez Les Sources - Deloye/Dubouchage,3,https://ftp.lignesdazur.com/ligne_5.pdf,3065AF,FFFFFF
+06,lignes-d-azur,06,Magnan - La Madeleine,3,https://ftp.lignesdazur.com/ligne_6.pdf,2FA948,FFFFFF
+07,lignes-d-azur,07,Port Lympia - Ariane / Général Saramito,3,https://ftp.lignesdazur.com/ligne_7.pdf,751D5D,FFFFFF
+09,lignes-d-azur,09,Grand Arénas - Le Gué/Shopping promenade - Halte Routière de l'Ara,3,https://ftp.lignesdazur.com/ligne_9.pdf,EF7D00,FFFFFF
+11,lignes-d-azur,11,Square Daudet - Vallon des Fleurs - Bella Vista,3,https://ftp.lignesdazur.com/ligne_11.pdf,9C3F8F,FFFFFF
+12,lignes-d-azur,12+,Centre Commercial CAP3000 - Hôpital Pasteur,3,https://ftp.lignesdazur.com/ligne_12.pdf,DE1381,FFFFFF
+14,lignes-d-azur,14,Vauban - Les Chênes Verts,3,https://ftp.lignesdazur.com/ligne_14.pdf,F5A32F,FFFFFF
+15,lignes-d-azur,15,Port de Saint-Jean - Lycée Masséna,3,https://ftp.lignesdazur.com/ligne_15.pdf,15B1AF,FFFFFF
+16,lignes-d-azur,16,Chénier - Col de Bast - Collège Matisse,3,https://ftp.lignesdazur.com/ligne_16.pdf,35BEEB,FFFFFF
+17,lignes-d-azur,17,STAPS / Arboras - Ferber,3,https://ftp.lignesdazur.com/ligne_17.pdf,418ABF,FFFFFF
+18,lignes-d-azur,18,Saint Sylvestre - Riquier,3,https://ftp.lignesdazur.com/ligne_18.pdf,A69DCD,FFFFFF
+19,lignes-d-azur,19,Defly/Klein - Vauban - Saint-André-de-la-Roche / Tourette-Levens / Levens,3,https://ftp.lignesdazur.com/ligne_19.pdf,9C3F8F,FFFFFF
+20,lignes-d-azur,20,Giono / Les Pugets - Grand Arénas,3,https://ftp.lignesdazur.com/ligne_20.pdf,F6A320,FFFFFF
+21,lignes-d-azur,21,Le Gué/Shopping promenade - Grand Arénas,3,https://ftp.lignesdazur.com/ligne_21.pdf,0CB1B0,FFFFFF
+22,lignes-d-azur,22,Carros Pagnol - Le Peyron - CADAM Centre Administratif,3,https://ftp.lignesdazur.com/ligne_22.pdf,3D8AC1,FFFFFF
+30,lignes-d-azur,30,Vauban (par boulevard Mont-Boron) - Vauban (par boulevard Carnot),3,https://ftp.lignesdazur.com/ligne_30.pdf,3D8AC1,FFFFFF
+31,lignes-d-azur,31,Pont du Génie - Madeleine Supérieur - La Madeleine - Hameaux de la Costière,3,https://ftp.lignesdazur.com/ligne_31.pdf,52AE32,FFFFFF
+32,lignes-d-azur,32,Caucade / Place Sainte-Marguerite - Ferber,3,https://ftp.lignesdazur.com/ligne_32.pdf,F6A320,FFFFFF
+33,lignes-d-azur,33,Mont Boron - Collège Matisse,3,https://ftp.lignesdazur.com/ligne_33.pdf,52AE32,FFFFFF
+34,lignes-d-azur,34,Le Centenaire - Géronima - Vallon Barla - Collège de l'Archet,3,https://ftp.lignesdazur.com/ligne_34.pdf,9D3E90,FFFFFF
+35,lignes-d-azur,35,Cernuschi - Vauban,3,https://ftp.lignesdazur.com/ligne_35.pdf,B57F2D,FFFFFF
+36,lignes-d-azur,36,Las Planas - Sappia - Rimiez / Saint-George,3,https://ftp.lignesdazur.com/ligne_36.pdf,52AE32,FFFFFF
+37,lignes-d-azur,37,Résidence Universitaire Montebello - Riquier,3,https://ftp.lignesdazur.com/ligne_37.pdf,35BEEB,FFFFFF
+38,lignes-d-azur,38,Garibaldi - Résidence des Baumettes,3,https://ftp.lignesdazur.com/ligne_38.pdf,F6A320,FFFFFF
+39,lignes-d-azur,39,Complexe Sportif de la Lauvette - Pont Michel,3,https://ftp.lignesdazur.com/ligne_39.pdf,9D3E90,FFFFFF
+40,lignes-d-azur,40,Cimiez / Hôpital - Pasteur / Gassin,3,https://ftp.lignesdazur.com/ligne_40.pdf,418ABF,FFFFFF
+41,lignes-d-azur,41,Collège A. Malraux/Vallon des Vaux - Parc des Sports,3,https://ftp.lignesdazur.com/ligne_41.pdf,418ABF,FFFFFF
+42,lignes-d-azur,42,Collège Pagnol - Le Riou,3,https://ftp.lignesdazur.com/ligne_42.pdf,936037,FFFFFF
+43,lignes-d-azur,43,Collège de l'Archet - St-Isidore/Ginestière - Tennis de Crémat - Lingostière Gare,3,https://ftp.lignesdazur.com/ligne_43.pdf,5B7BBC,FFFFFF
+44,lignes-d-azur,44,Place Wéry - Square Bourdet,3,https://ftp.lignesdazur.com/ligne_44.pdf,B57F2D,FFFFFF
+47,lignes-d-azur,47,Pôle d'Echanges Pierre Servella - Halte Routière de l'Ara,3,https://ftp.lignesdazur.com/ligne_47.pdf,35BEEB,FFFFFF
+49,lignes-d-azur,49,La Gaude Stade - Le Peyron - Bonaparte,3,https://ftp.lignesdazur.com/ligne_49.pdf,D16AA4,FFFFFF
+50,lignes-d-azur,50,CADAM Centre Administratif - Ferber,3,https://ftp.lignesdazur.com/ligne_50.pdf,95C11F,FFFFFF
+51,lignes-d-azur,51,Ferber (par l'avenue de Fabron puis la Corniche Fleurie) - Ferber (par la Corniche Fleurie puis l’avenue de Fabron),3,https://ftp.lignesdazur.com/ligne_51.pdf,008D3F,FFFFFF
+52,lignes-d-azur,52,Maison Médicale/La Manda - Centre Commercial  Saint-Isidore,3,https://ftp.lignesdazur.com/ligne_52.pdf,B57F2D,FFFFFF
+54,lignes-d-azur,54,Saint-Jeannet - Centre Commercial CAP3000 - Grand Arénas,3,https://ftp.lignesdazur.com/ligne_54.pdf,F5A32F,FFFFFF
+55,lignes-d-azur,55,La Pompe - Ecole Manon des Sources - Centre Commercial CAP 3000,3,https://ftp.lignesdazur.com/ligne_55.pdf,D069A3,FFFFFF
+57,lignes-d-azur,57,Las Planas / Sappia - Riquier,3,https://ftp.lignesdazur.com/ligne_57.pdf,428ABF,FFFFFF
+58,lignes-d-azur,58,Pont des Pugets - Square Bourdet (par Collège A. Malraux),3,https://ftp.lignesdazur.com/ligne_58.pdf,008D3F,FFFFFF
+59,lignes-d-azur,59,Plan du Var - CADAM Centre Administratif,3,https://ftp.lignesdazur.com/ligne_59.pdf,5BC5F2,000000
+60,lignes-d-azur,60,Croix de Berra - Magnan,3,https://ftp.lignesdazur.com/ligne_60.pdf,FFFFFF,000000
+61,lignes-d-azur,61,Magnan - Ferber,3,https://ftp.lignesdazur.com/ligne_61.pdf,9677B4,000000
+62,lignes-d-azur,62,Magnan - Fort Casal Colomars - Aspremont Village,3,https://ftp.lignesdazur.com/ligne_62.pdf,35BEEB,FFFFFF
+63,lignes-d-azur,63,Cernuschi - Borriglione (par Saint-Pancrace),3,https://ftp.lignesdazur.com/ligne_63.pdf,D069A3,FFFFFF
+64,lignes-d-azur,64,Saint-Pancrace - Urfé,3,https://ftp.lignesdazur.com/ligne_64.pdf,35BEEB,FFFFFF
+67,lignes-d-azur,67,Langevin - La Fontonne / Le Broc,3,https://ftp.lignesdazur.com/ligne_67.pdf,52AE32,FFFFFF
+68,lignes-d-azur,68,17ème Ter - Rue 18bis (par Colomars La Manda) - Médiathèque,3,https://ftp.lignesdazur.com/ligne_68.pdf,3C8AC3,FFFFFF
+69,lignes-d-azur,69,Langevin - Pagnol - Lei Feirrièro - Centre Commercial Lingostière,3,https://ftp.lignesdazur.com/ligne_69.pdf,F5D706,000000
+70,lignes-d-azur,70,Urfé - CPAM Entrée,3,https://ftp.lignesdazur.com/ligne_70.pdf,B77F26,FFFFFF
+71,lignes-d-azur,71,Corniche Bellevue - Gare Thiers,3,https://ftp.lignesdazur.com/ligne_71.pdf,418ABF,FFFFFF
+72,lignes-d-azur,72,Righi - PN / Halte Gambetta,3,https://ftp.lignesdazur.com/ligne_72.pdf,3AAA35,FFFFFF
+73,lignes-d-azur,73,Centre Commercial CAP 3000 - Médiathèque (par Pont des Pugets ou Chemin de la Digue),3,https://ftp.lignesdazur.com/ligne_73.pdf,5BC5F2,FFFFFF
+75,lignes-d-azur,75,Hameaux de la Costière - Gare Thiers,3,https://ftp.lignesdazur.com/ligne_75.pdf,27A737,FFFFFF
+75D,lignes-d-azur,75D,Magnan (par Madeleine) - Magnan (par St-Pierre-de-Féric),3,https://ftp.lignesdazur.com/ligne_75D.pdf,BCD5F0,000000
+76,lignes-d-azur,76,Aspremont village/Saint Blaise Village/ Castagniers Village - Place Fontaine du Temple,3,https://ftp.lignesdazur.com/ligne_76.pdf,9D3E90,FFFFFF
+77,lignes-d-azur,77,Lou Camp - Langevin,3,https://ftp.lignesdazur.com/ligne_77.pdf,51B15F,FFFFFF
+80,lignes-d-azur,80,Riquier - Vauban - Le Gentilhomme - Rochambeau,3,https://ftp.lignesdazur.com/ligne_80.pdf,00B1EB,FFFFFF
+82,lignes-d-azur,82,Plateau de la Justice - Vauban,3,https://ftp.lignesdazur.com/ligne_82.pdf,825637,FFFFFF
+83,lignes-d-azur,83,Plateau de la Justice - Baie des Fourmis,3,https://ftp.lignesdazur.com/ligne_83.pdf,52AE32,FFFFFF
+84,lignes-d-azur,84,Baie des Fourmis - Riquier,3,https://ftp.lignesdazur.com/ligne_84.pdf,15B1AF,FFFFFF
+85,lignes-d-azur,85,Cité du Soleil - Bertagnia - Chênes Verts Delahaye,3,https://ftp.lignesdazur.com/ligne_85.pdf,009640,FFFFFF
+86,lignes-d-azur,86,La Plana Matisse - Collège de la Bourgade,3,https://ftp.lignesdazur.com/ligne_86.pdf,35BEEB,FFFFFF
+88,lignes-d-azur,88,La Piscine - Marojade - Place Jules Musso - Vauban,3,https://ftp.lignesdazur.com/ligne_88.pdf,D16AA4,FFFFFF
+90,lignes-d-azur,90,La Bolline - Les Arboras / Université,3,https://ftp.lignesdazur.com/ligne_90.pdf,81563A,FFFFFF
+91,lignes-d-azur,91,Auron - Les Arboras / Université,3,https://ftp.lignesdazur.com/ligne_91.pdf,81563A,FFFFFF
+93,lignes-d-azur,93,Belvédère Place Pavy - Lantosque,3,https://ftp.lignesdazur.com/ligne_93.pdf,825637,FFFFFF
+94,lignes-d-azur,94,Centre de Cure Thermale - Roquebillière,3,https://ftp.lignesdazur.com/ligne_94.pdf,825637,FFFFFF
+CE,lignes-d-azur,CE,CADAM EST  centre administratif - Chênes Verts,3,https://ftp.lignesdazur.com/ligne_CADAM%20Est.pdf,265AA6,FFFFFF
+CN,lignes-d-azur,CN,Comte de Falicon - CADAM Centre Administratif / Les Arboras,3,https://ftp.lignesdazur.com/ligne_CADAM%20Nord.pdf,0000E1,FFFFFF
+Exp2,lignes-d-azur,Exp2,Pôle d’Echanges Pierre Servella - Pont Michel (par Rue 18bis),3,https://ftp.lignesdazur.com/ligne_Exp2.pdf,98C035,FFFFFF
+Exp3,lignes-d-azur,Exp3,Halte Routière de l’Ara - Albert Ier / Verdun,3,https://ftp.lignesdazur.com/ligne_Exp3.pdf,98C035,FFFFFF
+K,lignes-d-azur,K,Saint Blaise Village - Castagniers Les Moulins,3,https://ftp.lignesdazur.com/ligne_K.pdf,008D3F,FFFFFF
+L1,lignes-d-azur,L1,Hôpital Pasteur - Henri Sappia,0,https://ftp.lignesdazur.com/ligne_1.pdf,D20A11,FFFFFF
+L2,lignes-d-azur,L2,Port Lympia -  Aéroport Terminal 2 / CADAM Centre Administratif,0,https://ftp.lignesdazur.com/ligne_2.pdf,1F488F,FFFFFF
+L3,lignes-d-azur,L3,Port Lympia - Saint-Isidore,0,https://ftp.lignesdazur.com/ligne_3.pdf,00853E,FFFFFF
+R,lignes-d-azur,R,Collège de l'Archet - Les Cappan Croisement,3,https://ftp.lignesdazur.com/ligne_R.pdf,BCD5F0,000000
+V,lignes-d-azur,V,Lycée Mélinée & Missak Manouchian - Vittone,3,https://ftp.lignesdazur.com/ligne_V.pdf,164194,FFFFFF
+92,lignes-d-azur,92,Isola 2000 - Les Arboras / Université,3,https://ftp.lignesdazur.com/ligne_92.pdf,81563A,FFFFFF
+C32,lignes-d-azur,C32,Saint-Sauveur-sur-Tinée - Les Buisses,715,,A86434,000000
+C34,lignes-d-azur,C34,Saint Etienne de Tinée - Saint-Dalmas,715,,A86434,000000
+C36,lignes-d-azur,C36,Pont de Clans - Bairols,715,,A86434,FFFFFF
+C40,lignes-d-azur,C40,Lingostière - La Tour sur Tinée,715,,944127,FFFFFF
+C41,lignes-d-azur,C41,Lingostière - Clans,715,,944127,FFFFFF
+C42,lignes-d-azur,C42,Pont de clans - Clans,715,,944127,FFFFFF
+C43,lignes-d-azur,C43,Lingostière - Utelle,715,,944127,FFFFFF
+C44,lignes-d-azur,C44,Roquebilière - Utelle,715,,944127,000000
+C45,lignes-d-azur,C45,Roquebilière - Rimplas,715,,944127,FFFFFF
+NVN2,lignes-d-azur,NVN2,Square Maliver - Square Maliver (par Ecole Freinet),3,https://ftp.lignesdazur.com/navette_vence_2.pdf,B77F26,FFFFFF
+NVN3,lignes-d-azur,NVN3,Square Maliver,3,https://ftp.lignesdazur.com/navette_vence_3.pdf,9D3E90,FFFFFF
+NVN1,lignes-d-azur,NVN1,Camping - Le Taude (par Halte Routière de l'Ara),3,https://ftp.lignesdazur.com/navette_vence_1.pdf,D16AA4,FFFFFF
+741,lignes-d-azur,741,Collège St-Blaise - Vauban,3,https://ftp.lignesdazur.com/ligne_741.pdf,0067B2,FFFFFF
+742,lignes-d-azur,742,Collège Jean Franco - Vauban,3,https://ftp.lignesdazur.com/ligne_742.pdf,0067B2,FFFFFF
+743,lignes-d-azur,743,Lycée de la Montagne - Vauban,3,https://ftp.lignesdazur.com/ligne_743.pdf,27A737,FFFFFF
+744,lignes-d-azur,744,Collège Jean Salines - Vauban,3,https://ftp.lignesdazur.com/ligne_744.pdf,0067B2,FFFFFF
+745,lignes-d-azur,745,Vauban - St Martin Vésubie,3,,009640,FFFFFF
+LIso,lignes-d-azur,LIso,Isola 2000 - Isola Village,3,https://ftp.lignesdazur.com/Navette_Isola_Isola_2000.pdf,52AE32,FFFFFF
+81,lignes-d-azur,81,Ariane / Général Saramito - Pnt de Peille/La Condamine,3,https://ftp.lignesdazur.com/ligne_81.pdf,F7D800,1D1D1B
+89,lignes-d-azur,89,Les Chênes Verts - La Colle / Le Château,3,https://ftp.lignesdazur.com/ligne_89.pdf,3D8AC1,FFFFFF
+C,lignes-d-azur,C,Carros Pagnol - L'Emigra - Le Peyron - Lycée Mélinée & Missak Manouchian - Grinda,3,https://ftp.lignesdazur.com/ligne_C.pdf,5B7BBC,FFFFFF
+99,lignes-d-azur,99,Jean Medecin - Jean Médecin,3,https://ftp.lignesdazur.com/ligne_99.pdf,D069A4,000000
+Exp4,lignes-d-azur,Exp4,17ème  Ter - Rue 18bis - CADAM/Centre Administratif - Grand Arénas (Gare Routière),3,https://ftp.lignesdazur.com/ligne_Exp4.pdf,B6CF54,000000
+98,lignes-d-azur,98,Gustavin / Parc Vigier par Quai - Gustavin / Parc Vigier par Port Lympia,3,https://ftp.lignesdazur.com/ligne_98.pdf,D069A3,000000
+NVDU,lignes-d-azur,NVDU,Durandy / Canta Galet - Croix de Berra,3,https://ftp.lignesdazur.com/navette_durandy.pdf,F5D706,FFFFFF
+NVDB,lignes-d-azur,NVDB,Navette Vin de Bellet,3,https://ftp.lignesdazur.com/NVDB.pdf,9C3F8F,FFFFFF
+NVMA,lignes-d-azur,NVMA,Navette Maeght  Matisse,3,https://ftp.lignesdazur.com/NVMA.pdf,36BEE9,FFFFFF
+NGOR,lignes-d-azur,NGOR,Navette de La Gordolasque,3,https://ftp.lignesdazur.com/NGOR.pdf,2AA137,FFFFFF
+10,lignes-d-azur,10,Croix de Berra - Magnan,3,https://ftp.lignesdazur.com/ligne_10.pdf,31A948,FFFFFF
+08,lignes-d-azur,8+,Saint-Sylvestre - Palais des Expositions,3,https://ftp.lignesdazur.com/ligne_8.pdf,FEC703,000000
+12+,lignes-d-azur,12+,Centre Commercial CAP3000 - Hôpital Pasteur,3,https://ftp.lignesdazur.com/ligne_12.pdf,DE1381,FFFFFF
+8+,lignes-d-azur,8+,Saint-Sylvestre - Palais des Expositions,3,https://ftp.lignesdazur.com/ligne_8.pdf,FEC703,000000
+B,lignes-d-azur,B,Aéroport Terminal 2 - CADAM,0,https://ftp.lignesdazur.com/ligne_B.pdf,FFDD00,000000
+NBOR,lignes-d-azur,NBOR,Navette Boréon,3,https://ftp.lignesdazur.com/NBOR.pdf,2AA137,000000
+VESU,lignes-d-azur,VESU,Navette été Vésubie,3,https://ftp.lignesdazur.com/VESU.pdf,2AA137,FFFFFF
+FOOT,lignes-d-azur,FOOT,Chemin des Baraques - Plan du Var,3,,36BEE9,FFFFFF
