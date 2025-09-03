@@ -1,2790 +1,2775 @@
 trip {
-  trip_id: "6412263-71_A_50_7101_10:05-PROJET2025-71-Semaine-80"
-  route_id: "71"
-}
-position {
-  latitude: 43.70895
-  longitude: 7.24584246
-  bearing: 267
-}
-timestamp: 1756801064
-stop_id: "1287"
-vehicle {
-  id: "TCA117299"
-}
-
-trip {
-  trip_id: "6429227-15_R_99_1505_10:00-SETP2025-15-Semaine-11"
-  route_id: "15"
-}
-position {
-  latitude: 43.703804
-  longitude: 7.32653713
-  bearing: 184
-}
-timestamp: 1756801066
-stop_id: "8127"
-vehicle {
-  id: "RLA326"
-}
-
-trip {
-  trip_id: "6446488-05_R_50_0502_10:02-SETP2025-05-L-Ma-J-V-38"
-  route_id: "05"
-}
-position {
-  latitude: 43.7034492
-  longitude: 7.27303505
-  bearing: 208
-}
-timestamp: 1756801064
-stop_id: "2923"
-vehicle {
-  id: "RLA375"
-}
-
-trip {
-  trip_id: "5838866-22_A_45_2202_10:00-PROJET2025-22-Semaine-20"
-  route_id: "22"
-}
-position {
-  latitude: 43.7652435
-  longitude: 7.20028543
-  bearing: 36
-}
-timestamp: 1756801063
-stop_id: "21736"
-vehicle {
-  id: "PDV110804"
-}
-
-trip {
-  trip_id: "6415996-21_A_50_2105_10:02-SETP2025-21-Semaine-40"
-  route_id: "21"
-}
-position {
-  latitude: 43.6670685
-  longitude: 7.18792105
-  bearing: 220
-}
-timestamp: 1756801064
-stop_id: "5103"
-vehicle {
-  id: "RLA334"
-}
-
-trip {
-  trip_id: "6414765-34_A_21_3401_10:05-PROJET2025-34-L-Ma-J-V-20"
-  route_id: "34"
-}
-position {
-  latitude: 43.6889534
-  longitude: 7.23151922
-  bearing: 121
-}
-timestamp: 1756801063
-stop_id: "218"
-vehicle {
-  id: "TCA74034"
-}
-
-trip {
-  trip_id: "6257309-59_A_45_5905_10:02-PROJET2025-59-Semaine-26"
-  route_id: "59"
-}
-position {
-  latitude: 43.7277946
-  longitude: 7.18994331
-  bearing: 84
-}
-timestamp: 1756801064
-stop_id: "902"
-vehicle {
-  id: "PDV107"
-}
-
-trip {
-  trip_id: "6403290-36_R_99_3601_10:28-SETP2025-36-Semaine-33"
-  route_id: "36"
-}
-position {
-  latitude: 43.7297935
-  longitude: 7.24813509
-  bearing: 321
-}
-timestamp: 1756801064
-stop_id: "2826"
-vehicle {
-  id: "RLA16"
-}
-
-trip {
-  trip_id: "6416487-33_R_99_3303_10:00-SETP2025-33-L-Ma-J-V-36"
-  route_id: "33"
-}
-position {
-  latitude: 43.6986694
-  longitude: 7.28502417
-  bearing: 284
-}
-timestamp: 1756801063
-stop_id: "700"
-vehicle {
-  id: "RLA174"
-}
-
-trip {
-  trip_id: "6414225-07_R_97_0708_09:04-SETP2025-07-L-Ma-J-V-41"
-  route_id: "07"
-}
-position {
-  latitude: 43.7351646
-  longitude: 7.30581713
-  bearing: 64
-}
-timestamp: 1756800795
-stop_id: "570"
-vehicle {
-  id: "RLA448"
-}
-
-trip {
-  trip_id: "5673233-NVN1_R_98_NVN102_10:15-PROJET2024-NVence1-Semaine-15"
-  route_id: "NVN1"
-}
-position {
-  latitude: 43.7172165
-  longitude: 7.08480024
-  bearing: 353
-}
-timestamp: 1756801063
-stop_id: "3137"
-vehicle {
-  id: "TCA108187"
-}
-
-trip {
-  trip_id: "6140108-41_A_5_4102_10:02-PROJET2025-41-Semaine-05"
-  route_id: "41"
-}
-position {
-  latitude: 43.6552544
-  longitude: 7.15135288
-  bearing: 174
-}
-timestamp: 1756801063
-stop_id: "4050"
-vehicle {
-  id: "TCA108185"
-}
-
-trip {
-  trip_id: "6102447-63_R_98_6301_09:40-PROJET2025-63-Semaine-72-1101100"
-  route_id: "63"
-}
-position {
-  latitude: 43.7101059
-  longitude: 7.25679827
-  bearing: 95
-}
-timestamp: 1756801064
-stop_id: "2981"
-vehicle {
-  id: "TCA73948"
-}
-
-trip {
-  trip_id: "6409573-57_A_50_5711_10:00-SETP2025-57-Semaine-06"
-  route_id: "57"
-}
-position {
-  latitude: 43.7007
-  longitude: 7.27123976
-  bearing: 335
-}
-timestamp: 1756801064
-stop_id: "1033"
-vehicle {
-  id: "RLA617"
-}
-
-trip {
-  trip_id: "4603442-83_A_47_8301_10:00-RESEAU2023-83-Semaine-03"
-  route_id: "83"
-}
-position {
-  latitude: 43.7215462
-  longitude: 7.36646223
-  bearing: 135
-}
-timestamp: 1756801063
-stop_id: "8185"
-vehicle {
-  id: "SUM1747"
-}
-
-trip {
-  trip_id: "6402504-32_R_97_3201_10:13-SETP2025-32-Semaine-34"
-  route_id: "32"
-}
-position {
-  latitude: 43.6782913
-  longitude: 7.21366
-  bearing: 138
-}
-timestamp: 1756801063
-stop_id: "818"
-vehicle {
-  id: "RLA314"
-}
-
-trip {
-  trip_id: "5673211-NVN1_A_48_NVN101_10:15-PROJET2024-NVence1-Semaine-15"
-  route_id: "NVN1"
-}
-position {
-  latitude: 43.7050095
-  longitude: 7.13308907
-  bearing: 336
-}
-timestamp: 1756801063
-stop_id: "3022"
-vehicle {
-  id: "TCA108186"
-}
-
-trip {
-  trip_id: "6261672-73_A_1_7301_10:01-PROJET2025-73-Semaine-16"
-  route_id: "73"
-}
-position {
-  latitude: 43.7182388
-  longitude: 7.1793046
-  bearing: 196
-}
-timestamp: 1756801066
-stop_id: "5166"
-vehicle {
-  id: "PDV110805"
-}
-
-trip {
-  trip_id: "6414219-07_A_49_0706_09:17-SETP2025-07-L-Ma-J-V-41"
-  route_id: "07"
-}
-position {
-  latitude: 43.7242279
-  longitude: 7.28473902
-  bearing: 199
-}
-timestamp: 1756801064
-stop_id: "275"
-vehicle {
-  id: "RLA436"
-}
-
-trip {
-  trip_id: "6428417-61_R_99_6105_10:00-PROJET2025-61-Semaine-24"
-  route_id: "61"
-}
-position {
-  latitude: 43.6996765
-  longitude: 7.20808
-  bearing: 162
-}
-timestamp: 1756801064
-stop_id: "237"
-vehicle {
-  id: "TCA108189"
-}
-
-trip {
-  trip_id: "5408551-82_A_50_8201_10:00-PROJET2024-82-Semaine-93"
-  route_id: "82"
-}
-position {
-  latitude: 43.7002678
-  longitude: 7.28888226
-  bearing: 71
-}
-timestamp: 1756801064
-stop_id: "309"
-vehicle {
-  id: "SUM1826"
-}
-
-trip {
-  trip_id: "4669790-62_R_99_6206_10:20-RESEAU2023-62-Semaine-17"
-  route_id: "62"
-}
-position {
-  latitude: 43.7908516
-  longitude: 7.24314499
-  bearing: 318
-}
-timestamp: 1756801063
-stop_id: "6164"
-vehicle {
-  id: "TCA73922"
-}
-
-trip {
-  trip_id: "6416288-51_R_98_5101_09:48-PROJET2025-51-Semaine-10"
-  route_id: "51"
-}
-position {
-  latitude: 43.6761398
-  longitude: 7.22776651
-  bearing: 23
-}
-timestamp: 1756801063
-stop_id: "2832"
-vehicle {
-  id: "TCA105028"
-}
-
-trip {
-  trip_id: "6446475-05_A_99_0503_09:51-SETP2025-05-L-Ma-J-V-38"
-  route_id: "05"
-}
-position {
-  latitude: 43.7266235
-  longitude: 7.27566051
-  bearing: 6
-}
-timestamp: 1756801064
-stop_id: "68"
-vehicle {
-  id: "RLA359"
-}
-
-trip {
-  trip_id: "6409598-57_R_99_5709_09:26-SETP2025-57-Semaine-06"
-  route_id: "57"
-}
-position {
-  latitude: 43.7010193
-  longitude: 7.28580856
-  bearing: 110
-}
-timestamp: 1756801064
-stop_id: "98"
-vehicle {
-  id: "RLA623"
-}
-
-trip {
-  trip_id: "6140103-41_R_98_4101_09:58-PROJET2025-41-Semaine-05"
-  route_id: "41"
-}
-position {
-  latitude: 43.655571
-  longitude: 7.15132618
-  bearing: 346
-}
-timestamp: 1756801063
-stop_id: "4051"
-vehicle {
-  id: "TCA106668"
-}
-
-trip {
-  trip_id: "5838853-22_R_95_2206_09:50-PROJET2025-22-Semaine-20"
-  route_id: "22"
-}
-position {
-  latitude: 43.6766968
-  longitude: 7.1996994
-  bearing: 338
-}
-timestamp: 1756801063
-stop_id: "2852"
-vehicle {
-  id: "PDV110809"
-}
-
-trip {
-  trip_id: "6368860-09_R_99_0904_09:55-PROJET2025-09-Semaine-35"
-  route_id: "09"
-}
-position {
-  latitude: 43.6591148
-  longitude: 7.1481204
-  bearing: 288
-}
-timestamp: 1756801064
-stop_id: "4304"
-vehicle {
-  id: "TCA109468"
-}
-
-trip {
-  trip_id: "6412099-37_R_99_3701_09:55-SETP2025-37-Semaine-37"
-  route_id: "37"
-}
-position {
-  latitude: 43.7068138
-  longitude: 7.28147221
-  bearing: 194
-}
-timestamp: 1756801064
-stop_id: "1607"
-vehicle {
-  id: "RLA20"
-}
-
-trip {
-  trip_id: "6402474-32_A_48_3202_10:15-SETP2025-32-Semaine-34"
-  route_id: "32"
-}
-position {
-  latitude: 43.6785965
-  longitude: 7.22764969
-  bearing: 224
-}
-timestamp: 1756801063
-stop_id: "602"
-vehicle {
-  id: "RLA342"
-}
-
-trip {
-  trip_id: "6365939-20_R_99_2005_09:59-SETP2025-20-Semaine-42"
-  route_id: "20"
-}
-position {
-  latitude: 43.6594124
-  longitude: 7.195292
-  bearing: 348
-}
-timestamp: 1756801063
-stop_id: "5054"
-vehicle {
-  id: "RLA325"
-}
-
-trip {
-  trip_id: "6411409-70_R_99_7002_10:00-SETP2025-70-Semaine-35"
-  route_id: "70"
-}
-position {
-  latitude: 43.7140808
-  longitude: 7.24709272
-  bearing: 324
-}
-timestamp: 1756801063
-stop_id: "1037"
-vehicle {
-  id: "RLA327"
-}
-
-trip {
-  trip_id: "6446464-05_R_49_0509_10:07-SETP2025-05-L-Ma-J-V-38"
-  route_id: "05"
-}
-position {
-  latitude: 43.7201195
-  longitude: 7.27444124
-  bearing: 234
-}
-timestamp: 1756801064
-stop_id: "46"
-vehicle {
-  id: "RLA361"
-}
-
-trip {
-  trip_id: "6252422-11_R_98_1101_10:01-SETP2025-11-Semaine-37"
-  route_id: "11"
-}
-position {
-  latitude: 43.7078209
-  longitude: 7.25605679
-  bearing: 352
-}
-timestamp: 1756801063
-stop_id: "2981"
-vehicle {
-  id: "RLA377"
-}
-
-trip {
-  trip_id: "6355777-18_R_99_1802_09:36-SETP2025-18-Semaine-39"
-  route_id: "18"
-}
-position {
-  latitude: 43.7103
-  longitude: 7.2878828
-  bearing: 185
-}
-timestamp: 1756801064
-stop_id: "67"
-vehicle {
-  id: "RLA606"
-}
-
-trip {
-  trip_id: "6429220-15_R_99_1504_09:45-SETP2025-15-Semaine-11"
-  route_id: "15"
-}
-position {
-  latitude: 43.7009888
-  longitude: 7.28013
-  bearing: 292
-}
-timestamp: 1756801066
-stop_id: "463"
-vehicle {
-  id: "RLA328"
-}
-
-trip {
-  trip_id: "6327193-17_R_99_1702_09:58-SETP2025-17-L-Ma-J-V-35"
-  route_id: "17"
-}
-position {
-  latitude: 43.6832237
-  longitude: 7.22312403
-  bearing: 59
-}
-timestamp: 1756801064
-stop_id: "38"
-vehicle {
-  id: "RLA157"
-}
-
-trip {
-  trip_id: "6327209-17_R_99_1703_10:22-SETP2025-17-L-Ma-J-V-35"
-  route_id: "17"
-}
-position {
-  latitude: 43.6909981
-  longitude: 7.19452715
-  bearing: 348
-}
-timestamp: 1756801064
-stop_id: "2816"
-vehicle {
-  id: "RLA163"
-}
-
-trip {
-  trip_id: "6416025-21_R_99_2104_10:11-SETP2025-21-Semaine-40"
-  route_id: "21"
-}
-position {
-  latitude: 43.6623802
-  longitude: 7.14854336
-  bearing: 128
-}
-timestamp: 1756801064
-stop_id: "4053"
-vehicle {
-  id: "RLA339"
-}
-
-trip {
-  trip_id: "6416279-51_R_98_5103_10:21-PROJET2025-51-Semaine-10"
-  route_id: "51"
-}
-position {
-  latitude: 43.6769257
-  longitude: 7.22822142
-  bearing: 46
-}
-timestamp: 1756801063
-stop_id: "2832"
-vehicle {
-  id: "TCA115514"
-}
-
-trip {
-  trip_id: "6410620-64_A_50_6402_09:45-SETP2025-64-Semaine-37"
-  route_id: "64"
-}
-position {
-  latitude: 43.720417
-  longitude: 7.23436785
-  bearing: 348
-}
-timestamp: 1756801063
-stop_id: "143"
-vehicle {
-  id: "RLA104"
-}
-
-trip {
-  trip_id: "4759144-47_R_99_4701_09:49-PROJET2023-47-Semaine-10"
-  route_id: "47"
-}
-position {
-  latitude: 43.7490768
-  longitude: 7.14748621
-  bearing: 112
-}
-timestamp: 1756801063
-stop_id: "3038"
-vehicle {
-  id: "TCA106086"
-}
-
-trip {
-  trip_id: "6416339-51_A_49_5104_10:04-PROJET2025-51-Semaine-10"
-  route_id: "51"
-}
-position {
-  latitude: 43.6893158
-  longitude: 7.22239399
-  bearing: 126
-}
-timestamp: 1756801063
-stop_id: "533"
-vehicle {
-  id: "TCA73914"
-}
-
-trip {
-  trip_id: "6257292-59_A_45_5903_09:38-PROJET2025-59-Semaine-26"
-  route_id: "59"
-}
-position {
-  latitude: 43.8182755
-  longitude: 7.18810511
-  bearing: 359
-}
-timestamp: 1756801064
-stop_id: "6091"
-vehicle {
-  id: "PDV108"
-}
-
-trip {
-  trip_id: "6368841-09_A_50_0906_09:33-PROJET2025-09-Semaine-35"
-  route_id: "09"
-}
-position {
-  latitude: 43.6672783
-  longitude: 7.20787191
-  bearing: 79
-}
-timestamp: 1756801064
-stop_id: "2971"
-vehicle {
-  id: "TCA74758"
-}
-
-trip {
-  trip_id: "6355818-18_A_50_1807_09:32-SETP2025-18-Semaine-39"
-  route_id: "18"
-}
-position {
-  latitude: 43.7256241
-  longitude: 7.25516939
-  bearing: 263
-}
-timestamp: 1756801064
-stop_id: "706"
-vehicle {
-  id: "RLA311"
-}
-
-trip {
-  trip_id: "6253079-14_A_50_1406_09:44-SETP2025-14-L-Ma-J-V-38"
-  route_id: "14"
-}
-position {
-  latitude: 43.7314796
-  longitude: 7.28914738
-  bearing: 234
-}
-timestamp: 1756801063
-stop_id: "134"
-vehicle {
-  id: "RLA484"
-}
-
-trip {
-  trip_id: "6252468-11_A_50_1102_10:00-SETP2025-11-Semaine-37"
-  route_id: "11"
-}
-position {
-  latitude: 43.71035
-  longitude: 7.26225758
-  bearing: 251
-}
-timestamp: 1756801063
-stop_id: "1616"
-vehicle {
-  id: "RLA369"
-}
-
-trip {
-  trip_id: "6355779-18_R_99_1801_10:09-SETP2025-18-Semaine-39"
-  route_id: "18"
-}
-position {
-  latitude: 43.7236137
-  longitude: 7.26236343
-  bearing: 16
-}
-timestamp: 1756801064
-stop_id: "983"
-vehicle {
-  id: "RLA621"
-}
-
-trip {
-  trip_id: "6446497-05_A_99_0501_10:08-SETP2025-05-L-Ma-J-V-38"
-  route_id: "05"
-}
-position {
-  latitude: 43.7051659
-  longitude: 7.27221918
-  bearing: 305
-}
-timestamp: 1756801064
-stop_id: "321"
-vehicle {
-  id: "RLA378"
-}
-
-trip {
-  trip_id: "6252469-11_A_49_1103_10:10-SETP2025-11-Semaine-37"
-  route_id: "11"
-}
-position {
-  latitude: 43.7238197
-  longitude: 7.26167059
-  bearing: 255
-}
-timestamp: 1756801063
-stop_id: "211"
-vehicle {
-  id: "RLA370"
-}
-
-trip {
-  trip_id: "6429295-15_R_99_1501_10:15-SETP2025-15-Semaine-11"
-  route_id: "15"
-}
-position {
-  latitude: 43.6900406
-  longitude: 7.33318424
-  bearing: 341
-}
-timestamp: 1756801066
-stop_id: "8148"
-vehicle {
-  id: "RLA317"
-}
-
-trip {
-  trip_id: "6368843-09_A_50_0908_10:30-PROJET2025-09-Semaine-35"
-  route_id: "09"
-}
-position {
-  latitude: 43.7227135
-  longitude: 7.10723305
-  bearing: 13
-}
-timestamp: 1756801064
-stop_id: "3146"
-vehicle {
-  id: "TCA107746"
-}
-
-trip {
-  trip_id: "6369677-30_A_50_3003_10:24-SETP2025-30-Semaine-32"
+  trip_id: "6369687-30_R_99_3002_11:40-SETP2025-30-Semaine-32"
   route_id: "30"
 }
-position {
-  latitude: 43.7086105
-  longitude: 7.28612852
-  bearing: 123
-}
-timestamp: 1756801064
-stop_id: "2685"
-vehicle {
-  id: "RLA103"
-}
-
-trip {
-  trip_id: "6410618-64_R_99_6401_10:00-SETP2025-64-Semaine-37"
-  route_id: "64"
-}
-position {
-  latitude: 43.7040634
-  longitude: 7.24288368
-  bearing: 123
-}
-timestamp: 1756801063
-stop_id: "397"
-vehicle {
-  id: "RLA101"
-}
-
-trip {
-  trip_id: "6446474-05_R_49_0505_09:52-SETP2025-05-L-Ma-J-V-38"
-  route_id: "05"
-}
-position {
-  latitude: 43.7016373
-  longitude: 7.27097416
-  bearing: 246
-}
-timestamp: 1756801064
-stop_id: "1434"
-vehicle {
-  id: "RLA373"
-}
-
-trip {
-  trip_id: "6369750-42_R_95_4201_10:16-PROJET2025-42-Semaine-83"
-  route_id: "42"
-}
-position {
-  latitude: 43.6820869
-  longitude: 7.18911886
-  bearing: 164
-}
-timestamp: 1756801063
-stop_id: "5026"
-vehicle {
-  id: "TCA108190"
-}
-
-trip {
-  trip_id: "6102448-63_R_98_6303_10:00-PROJET2025-63-Semaine-72-1101100"
-  route_id: "63"
-}
-position {
-  latitude: 43.738842
-  longitude: 7.23770809
-  bearing: 141
-}
-timestamp: 1756801064
-stop_id: "267"
-vehicle {
-  id: "TCA73941"
-}
-
-trip {
-  trip_id: "5340987-72_R_98_7201_10:00-PROJET2024-72-Semaine-74"
-  route_id: "72"
-}
-position {
-  latitude: 43.7100792
-  longitude: 7.25863504
-  bearing: 274
-}
-timestamp: 1756801064
-stop_id: "1616"
-vehicle {
-  id: "TCA117300"
-}
-
-trip {
-  trip_id: "6414227-07_R_97_0709_09:21-SETP2025-07-L-Ma-J-V-41"
-  route_id: "07"
-}
-position {
-  latitude: 43.7307167
-  longitude: 7.28657961
-  bearing: 73
-}
-timestamp: 1756801064
-stop_id: "466"
-vehicle {
-  id: "RLA451"
-}
-
-trip {
-  trip_id: "6369679-30_R_99_3001_10:12-SETP2025-30-Semaine-32"
-  route_id: "30"
-}
-position {
-  latitude: 43.7024078
-  longitude: 7.28777599
-  bearing: 205
-}
-timestamp: 1756801064
-stop_id: "87"
-vehicle {
-  id: "RLA133"
-}
-
-trip {
-  trip_id: "6416425-33_A_50_3305_10:13-SETP2025-33-L-Ma-J-V-36"
-  route_id: "33"
-}
-position {
-  latitude: 43.7215195
-  longitude: 7.27208567
-  bearing: 173
-}
-timestamp: 1756801063
-stop_id: "1355"
-vehicle {
-  id: "RLA173"
-}
-
-trip {
-  trip_id: "5925297-54_R_98_5402_08:34-PROJET2025-54-Semaine-17"
-  route_id: "54"
-}
-position {
-  latitude: 43.7497215
-  longitude: 7.14473581
-  bearing: 127
-}
-timestamp: 1756785039
-stop_id: "3119"
-vehicle {
-  id: "TCA106736"
-}
-
-trip {
-  trip_id: "6368822-09_A_49_0905_10:00-PROJET2025-09-Semaine-35"
-  route_id: "09"
-}
-position {
-  latitude: 43.660511
-  longitude: 7.15525866
-  bearing: 151
-}
-timestamp: 1756801064
-stop_id: "4060"
-vehicle {
-  id: "TCA109585"
-}
-
-trip {
-  trip_id: "6413140-38_A_50_3803_10:09-SETP2025-38-Semaine-41"
-  route_id: "38"
-}
-position {
-  latitude: 43.6992
-  longitude: 7.26237106
-  bearing: 178
-}
-timestamp: 1756801063
-stop_id: "283"
-vehicle {
-  id: "RLA40"
-}
-
-trip {
-  trip_id: "6409600-57_R_99_5712_09:55-SETP2025-57-Semaine-06"
-  route_id: "57"
-}
-position {
-  latitude: 43.704998
-  longitude: 7.25608301
-  bearing: 179
-}
-timestamp: 1756801064
-stop_id: "1017"
-vehicle {
-  id: "RLA622"
-}
-
-trip {
-  trip_id: "6366089-20_R_99_2001_10:11-SETP2025-20-Semaine-42"
-  route_id: "20"
-}
-position {
-  latitude: 43.6754112
-  longitude: 7.18863058
-  bearing: 114
-}
-timestamp: 1756801063
-stop_id: "5070"
-vehicle {
-  id: "RLA338"
-}
-
-trip {
-  trip_id: "4669795-62_R_98_6203_10:15-RESEAU2023-62-Semaine-17"
-  route_id: "62"
-}
-position {
-  latitude: 43.7584229
-  longitude: 7.22034836
-  bearing: 174
-}
-timestamp: 1756801063
-stop_id: "6016"
-vehicle {
-  id: "TCA73928"
-}
-
-trip {
-  trip_id: "6410621-64_A_50_6403_10:15-SETP2025-64-Semaine-37"
-  route_id: "64"
-}
-position {
-  latitude: 43.7067032
-  longitude: 7.26726532
-  bearing: 246
-}
-timestamp: 1756801063
-stop_id: "52"
-vehicle {
-  id: "RLA102"
-}
-
-trip {
-  trip_id: "6102482-63_A_48_6302_08:30-PROJET2025-63-Semaine-72-1101100"
-  route_id: "63"
-}
-position {
-  latitude: 43.7101
-  longitude: 7.25858641
-  bearing: 277
-}
-timestamp: 1756801064
-stop_id: "1616"
-vehicle {
-  id: "TCA73942"
-}
-
-trip {
-  trip_id: "6416291-51_R_98_5102_09:33-PROJET2025-51-Semaine-10"
-  route_id: "51"
-}
-position {
-  latitude: 43.6701469
-  longitude: 7.20732546
-  bearing: 357
-}
-timestamp: 1756801063
-stop_id: "346"
-vehicle {
-  id: "TCA115159"
-}
-
-trip {
-  trip_id: "6419988-35_R_99_3501_10:21-SETP2025-35-Semaine-35"
-  route_id: "35"
-}
-position {
-  latitude: 43.7277794
-  longitude: 7.25195
-  bearing: 340
-}
-timestamp: 1756801064
-stop_id: "1427"
-vehicle {
-  id: "RLA135"
-}
-
-trip {
-  trip_id: "6472657-50_R_99_5001_10:09-PROJET2025-50-Semaine-08"
-  route_id: "50"
-}
-position {
-  latitude: 43.6819725
-  longitude: 7.20584774
-  bearing: 150
-}
-timestamp: 1756801064
-stop_id: "2848"
-vehicle {
-  id: "TCA115515"
-}
-
-trip {
-  trip_id: "6253050-14_R_99_1404_09:39-SETP2025-14-L-Ma-J-V-38"
-  route_id: "14"
-}
-position {
-  latitude: 43.7203407
-  longitude: 7.28740501
-  bearing: 48
-}
-timestamp: 1756801063
-stop_id: "26"
-vehicle {
-  id: "RLA485"
-}
-
-trip {
-  trip_id: "6416424-33_A_50_3304_09:55-SETP2025-33-L-Ma-J-V-36"
-  route_id: "33"
-}
-position {
-  latitude: 43.7022133
-  longitude: 7.29461765
-  bearing: 155
-}
-timestamp: 1756801063
-stop_id: "1096"
-vehicle {
-  id: "RLA171"
-}
-
-trip {
-  trip_id: "5097937-69_A_40_6901_10:00-PROJET2023-69-Semaine-15"
-  route_id: "69"
-}
-position {
-  latitude: 43.7736893
-  longitude: 7.19438934
-  bearing: 134
-}
-timestamp: 1756801063
-stop_id: "21206"
-vehicle {
-  id: "PDV76"
-}
-
-trip {
-  trip_id: "6327210-17_A_50_1701_10:23-SETP2025-17-L-Ma-J-V-35"
-  route_id: "17"
-}
-position {
-  latitude: 43.6770935
-  longitude: 7.2282958
-  bearing: 24
-}
-timestamp: 1756801064
-stop_id: "2712"
-vehicle {
-  id: "RLA156"
-}
-
-trip {
-  trip_id: "6368861-09_R_99_0907_10:25-PROJET2025-09-Semaine-35"
-  route_id: "09"
-}
-position {
-  latitude: 43.6692657
-  longitude: 7.21005344
-  bearing: 17
-}
-timestamp: 1756801064
-stop_id: "2968"
-vehicle {
-  id: "TCA108952"
-}
-
-trip {
-  trip_id: "6365926-20_A_50_2002_10:11-SETP2025-20-Semaine-42"
-  route_id: "20"
-}
-position {
-  latitude: 43.6600685
-  longitude: 7.19298172
-  bearing: 160
-}
-timestamp: 1756801063
-stop_id: "5020"
-vehicle {
-  id: "RLA316"
-}
-
-trip {
-  trip_id: "5203681-68_A_50_6802_10:05-PROJET2024-68-Semaine-15"
-  route_id: "68"
-}
-position {
-  latitude: 43.7835579
-  longitude: 7.21114683
-  bearing: 351
-}
-timestamp: 1756801064
-stop_id: "21572"
-vehicle {
-  id: "PDV97"
-}
-
-trip {
-  trip_id: "6414206-07_A_49_0705_09:32-SETP2025-07-L-Ma-J-V-41"
-  route_id: "07"
-}
-position {
-  latitude: 43.7342644
-  longitude: 7.29310942
-  bearing: 261
-}
-timestamp: 1756801064
-stop_id: "868"
-vehicle {
-  id: "RLA461"
-}
-
-trip {
-  trip_id: "6446468-05_A_98_0506_09:59-SETP2025-05-L-Ma-J-V-38"
-  route_id: "05"
-}
-position {
-  latitude: 43.7250366
-  longitude: 7.27519417
-  bearing: 346
-}
-timestamp: 1756801064
-stop_id: "68"
-vehicle {
-  id: "RLA362"
-}
-
-trip {
-  trip_id: "5925308-54_R_98_5401_09:37-PROJET2025-54-Semaine-17"
-  route_id: "54"
-}
-position {
-  latitude: 43.668335
-  longitude: 7.21082926
-  bearing: 66
-}
-timestamp: 1756801063
-stop_id: "2971"
-vehicle {
-  id: "TCA73916"
-}
-
-trip {
-  trip_id: "6252424-11_R_97_1108_10:13-SETP2025-11-Semaine-37"
-  route_id: "11"
-}
-position {
-  latitude: 43.7015381
-  longitude: 7.25119257
-  bearing: 190
-}
-timestamp: 1756801063
-stop_id: "219"
-vehicle {
-  id: "RLA353"
-}
-
-trip {
-  trip_id: "6462513-31_A_47_3101_10:10-PROJET2025-31-Semaine-08"
-  route_id: "31"
-}
-position {
-  latitude: 43.7107162
-  longitude: 7.22983646
-  bearing: 263
-}
-timestamp: 1756801063
-stop_id: "1556"
-vehicle {
-  id: "TCA74036"
-}
-
-trip {
-  trip_id: "4669771-62_A_48_6204_09:50-RESEAU2023-62-Semaine-17"
-  route_id: "62"
-}
-position {
-  latitude: 43.7172623
-  longitude: 7.21865416
-  bearing: 355
-}
-timestamp: 1756801063
-stop_id: "170"
-vehicle {
-  id: "TCA73934"
-}
-
-trip {
-  trip_id: "6018951-55_R_98_5502_10:15-PROJET2025-55-Semaine-08"
-  route_id: "55"
-}
-position {
-  latitude: 43.721653
-  longitude: 7.15111399
-  bearing: 92
-}
-timestamp: 1756801063
-stop_id: "3051"
-vehicle {
-  id: "TCA73973"
-}
-
-trip {
-  trip_id: "4523357-88_R_98_8802_07:55-RESEAU2023-88-Semaine-83-1101100"
-  route_id: "88"
-}
-position {
-  latitude: 43.7488632
-  longitude: 7.28460836
-  bearing: 202
-}
-timestamp: 1756799928
-stop_id: "7211"
-vehicle {
-  id: "SUM1756"
-}
-
-trip {
-  trip_id: "6366082-20_A_50_2006_09:59-SETP2025-20-Semaine-42"
-  route_id: "20"
-}
-position {
-  latitude: 43.6740723
-  longitude: 7.18969965
-  bearing: 327
-}
-timestamp: 1756801063
-stop_id: "5069"
-vehicle {
-  id: "RLA329"
-}
-
-trip {
-  trip_id: "6428404-61_A_50_6102_09:30-PROJET2025-61-Semaine-24"
-  route_id: "61"
-}
-position {
-  latitude: 43.6935425
-  longitude: 7.2404151
-  bearing: 74
-}
-timestamp: 1756801064
-stop_id: "178"
-vehicle {
-  id: "TCA73965"
-}
-
-trip {
-  trip_id: "6252421-11_R_97_1104_09:49-SETP2025-11-Semaine-37"
-  route_id: "11"
-}
-position {
-  latitude: 43.724968
-  longitude: 7.26547146
-  bearing: 330
-}
-timestamp: 1756801063
-stop_id: "981"
-vehicle {
-  id: "RLA367"
-}
-
-trip {
-  trip_id: "6419984-35_A_50_3502_10:20-SETP2025-35-Semaine-35"
-  route_id: "35"
-}
-position {
-  latitude: 43.7085533
-  longitude: 7.28624868
-  bearing: 308
-}
-timestamp: 1756801064
-stop_id: "2686"
 vehicle {
   id: "RLA134"
 }
+position {
+  latitude: 43.7066383
+  longitude: 7.28790665
+  bearing: 299
+}
+stop_id: "2685"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6419981-35_R_99_3504_09:48-SETP2025-35-Semaine-35"
-  route_id: "35"
+  trip_id: "6410629-64_A_50_6401_12:15-SETP2025-64-Semaine-37"
+  route_id: "64"
+}
+vehicle {
+  id: "RLA102"
 }
 position {
-  latitude: 43.7207909
-  longitude: 7.27707624
-  bearing: 84
+  latitude: 43.7054672
+  longitude: 7.2656951
+  bearing: 243
 }
-timestamp: 1756801064
-stop_id: "945"
-vehicle {
-  id: "RLA1"
-}
+stop_id: "52"
+timestamp: 1756894721
 
 trip {
-  trip_id: "6446463-05_A_98_0507_10:17-SETP2025-05-L-Ma-J-V-38"
-  route_id: "05"
+  trip_id: "6429274-15_R_99_1501_11:55-SETP2025-15-Semaine-11"
+  route_id: "15"
+}
+vehicle {
+  id: "RLA317"
 }
 position {
-  latitude: 43.7007561
-  longitude: 7.26934338
-  bearing: 142
+  latitude: 43.7080917
+  longitude: 7.31518412
+  bearing: 279
 }
-timestamp: 1756801064
-stop_id: "1434"
-vehicle {
-  id: "RLA363"
-}
+stop_id: "8107"
+timestamp: 1756894721
 
 trip {
-  trip_id: "6415995-21_A_50_2102_09:38-SETP2025-21-Semaine-40"
-  route_id: "21"
-}
-position {
-  latitude: 43.6650314
-  longitude: 7.15130472
-  bearing: 161
-}
-timestamp: 1756801064
-stop_id: "4144"
-vehicle {
-  id: "RLA315"
-}
-
-trip {
-  trip_id: "6409572-57_A_50_5706_09:45-SETP2025-57-Semaine-06"
-  route_id: "57"
-}
-position {
-  latitude: 43.7094955
-  longitude: 7.25603247
-  bearing: 0
-}
-timestamp: 1756801064
-stop_id: "1061"
-vehicle {
-  id: "RLA625"
-}
-
-trip {
-  trip_id: "6368880-09_R_98_0902_10:10-PROJET2025-09-Semaine-35"
-  route_id: "09"
-}
-position {
-  latitude: 43.6603508
-  longitude: 7.18245268
-  bearing: 289
-}
-timestamp: 1756801064
-stop_id: "5087"
-vehicle {
-  id: "TCA108951"
-}
-
-trip {
-  trip_id: "6105167-76_A_48_7602_10:10-PROJET2025-76-Semaine-89"
+  trip_id: "6105237-76_R_97_7602_12:20-PROJET2025-76-Semaine-90"
   route_id: "76"
 }
-position {
-  latitude: 43.7368
-  longitude: 7.26315975
-  bearing: 314
-}
-timestamp: 1756801063
-stop_id: "53"
 vehicle {
   id: "TCA73900"
 }
-
-trip {
-  trip_id: "6409571-57_A_50_5714_09:30-SETP2025-57-Semaine-06"
-  route_id: "57"
-}
 position {
-  latitude: 43.7264824
-  longitude: 7.25579262
-  bearing: 354
-}
-timestamp: 1756801064
-stop_id: "279"
-vehicle {
-  id: "RLA607"
-}
-
-trip {
-  trip_id: "6414226-07_R_97_0703_09:12-SETP2025-07-L-Ma-J-V-41"
-  route_id: "07"
-}
-position {
-  latitude: 43.7391
-  longitude: 7.30794048
-  bearing: 34
-}
-timestamp: 1756801064
-stop_id: "1065"
-vehicle {
-  id: "RLA452"
-}
-
-trip {
-  trip_id: "6327118-17_A_50_1704_10:10-SETP2025-17-L-Ma-J-V-35"
-  route_id: "17"
-}
-position {
-  latitude: 43.6832047
-  longitude: 7.22871
-  bearing: 329
-}
-timestamp: 1756801064
-stop_id: "617"
-vehicle {
-  id: "RLA159"
-}
-
-trip {
-  trip_id: "6368842-09_A_50_0903_10:03-PROJET2025-09-Semaine-35"
-  route_id: "09"
-}
-position {
-  latitude: 43.6649666
-  longitude: 7.12787867
-  bearing: 53
-}
-timestamp: 1756801064
-stop_id: "4271"
-vehicle {
-  id: "TCA107747"
-}
-
-trip {
-  trip_id: "6413102-38_R_99_3802_10:26-SETP2025-38-Semaine-41"
-  route_id: "38"
-}
-position {
-  latitude: 43.7012749
-  longitude: 7.2749095
-  bearing: 291
-}
-timestamp: 1756801063
-stop_id: "2977"
-vehicle {
-  id: "RLA33"
-}
-
-trip {
-  trip_id: "6365925-20_R_99_2003_10:23-SETP2025-20-Semaine-42"
-  route_id: "20"
-}
-position {
-  latitude: 43.6874657
-  longitude: 7.18140411
-  bearing: 217
-}
-timestamp: 1756801063
-stop_id: "5059"
-vehicle {
-  id: "RLA341"
-}
-
-trip {
-  trip_id: "6424156-16_R_97_1603_10:03-SETP2025-16-Semaine-35"
-  route_id: "16"
-}
-position {
-  latitude: 43.715786
-  longitude: 7.26174355
-  bearing: 88
-}
-timestamp: 1756801064
-stop_id: "1442"
-vehicle {
-  id: "RLA165"
-}
-
-trip {
-  trip_id: "6414229-07_R_97_0707_09:37-SETP2025-07-L-Ma-J-V-41"
-  route_id: "07"
-}
-position {
-  latitude: 43.728157
-  longitude: 7.28403902
-  bearing: 353
-}
-timestamp: 1756801064
-stop_id: "655"
-vehicle {
-  id: "RLA447"
-}
-
-trip {
-  trip_id: "6369779-42_A_5_4202_10:03-PROJET2025-42-Semaine-83"
-  route_id: "42"
-}
-position {
-  latitude: 43.6652527
-  longitude: 7.15093565
-  bearing: 340
-}
-timestamp: 1756801063
-stop_id: "4113"
-vehicle {
-  id: "TCA108192"
-}
-
-trip {
-  trip_id: "6253018-14_A_50_1407_09:53-SETP2025-14-L-Ma-J-V-38"
-  route_id: "14"
-}
-position {
-  latitude: 43.743576
-  longitude: 7.31372213
+  latitude: 43.8204575
+  longitude: 7.23912144
   bearing: 218
 }
-timestamp: 1756801063
-stop_id: "7104"
-vehicle {
-  id: "RLA486"
-}
+stop_id: "6090"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6416460-33_R_99_3302_10:18-SETP2025-33-L-Ma-J-V-36"
-  route_id: "33"
-}
-position {
-  latitude: 43.6919212
-  longitude: 7.30010462
-  bearing: 279
-}
-timestamp: 1756801063
-stop_id: "949"
-vehicle {
-  id: "RLA172"
-}
-
-trip {
-  trip_id: "6218541-84_A_48_8401_09:50-PROJET2025-84-Semaine-04"
-  route_id: "84"
-}
-position {
-  latitude: 43.7208481
-  longitude: 7.30466461
-  bearing: 135
-}
-timestamp: 1756800513
-stop_id: "618"
-vehicle {
-  id: "SUM1746"
-}
-
-trip {
-  trip_id: "6355820-18_A_50_1808_10:02-SETP2025-18-Semaine-39"
-  route_id: "18"
-}
-position {
-  latitude: 43.7233124
-  longitude: 7.28606224
-  bearing: 279
-}
-timestamp: 1756801064
-stop_id: "276"
-vehicle {
-  id: "RLA601"
-}
-
-trip {
-  trip_id: "4669762-62_R_98_6202_09:55-RESEAU2023-62-Semaine-17"
-  route_id: "62"
-}
-position {
-  latitude: 43.6944389
-  longitude: 7.23805952
-  bearing: 129
-}
-timestamp: 1756801063
-stop_id: "138"
-vehicle {
-  id: "TCA73923"
-}
-
-trip {
-  trip_id: "6077765-58_R_99_5802_09:31-PROJET2025-58-Semaine-06"
-  route_id: "58"
-}
-position {
-  latitude: 43.6862526
-  longitude: 7.14987564
-  bearing: 248
-}
-timestamp: 1756801063
-stop_id: "4137"
-vehicle {
-  id: "TCA73076"
-}
-
-trip {
-  trip_id: "4515171-80_R_95_8001_10:14-RESEAU2023-80-Semaine-94"
-  route_id: "80"
-}
-position {
-  latitude: 43.7088509
-  longitude: 7.28603458
-  bearing: 85
-}
-timestamp: 1756801064
-stop_id: "2676"
-vehicle {
-  id: "SUM1754"
-}
-
-trip {
-  trip_id: "6412100-37_R_99_3702_10:28-SETP2025-37-Semaine-37"
-  route_id: "37"
-}
-position {
-  latitude: 43.7192879
-  longitude: 7.26786852
-  bearing: 223
-}
-timestamp: 1756801064
-stop_id: "2649"
-vehicle {
-  id: "RLA15"
-}
-
-trip {
-  trip_id: "6252986-14_A_50_1403_09:35-SETP2025-14-L-Ma-J-V-38"
-  route_id: "14"
-}
-position {
-  latitude: 43.7204475
-  longitude: 7.28743792
-  bearing: 228
-}
-timestamp: 1756801063
-stop_id: "248"
-vehicle {
-  id: "RLA487"
-}
-
-trip {
-  trip_id: "6446466-05_R_49_0504_10:23-SETP2025-05-L-Ma-J-V-38"
-  route_id: "05"
-}
-position {
-  latitude: 43.7416916
-  longitude: 7.27719736
-  bearing: 169
-}
-timestamp: 1756801064
-stop_id: "1143"
-vehicle {
-  id: "RLA364"
-}
-
-trip {
-  trip_id: "6424090-16_A_46_1601_10:05-SETP2025-16-Semaine-35"
-  route_id: "16"
-}
-position {
-  latitude: 43.7195
-  longitude: 7.26282787
-  bearing: 9
-}
-timestamp: 1756801064
-stop_id: "1242"
-vehicle {
-  id: "RLA162"
-}
-
-trip {
-  trip_id: "5838862-22_R_95_2203_10:15-PROJET2025-22-Semaine-20"
-  route_id: "22"
-}
-position {
-  latitude: 43.7757034
-  longitude: 7.19076872
-  bearing: 170
-}
-timestamp: 1756801063
-stop_id: "21259"
-vehicle {
-  id: "PDV86"
-}
-
-trip {
-  trip_id: "6424179-16_R_97_1604_10:20-SETP2025-16-Semaine-35"
-  route_id: "16"
-}
-position {
-  latitude: 43.7328491
-  longitude: 7.24416161
-  bearing: 40
-}
-timestamp: 1756801064
-stop_id: "260"
-vehicle {
-  id: "RLA158"
-}
-
-trip {
-  trip_id: "6428413-61_A_50_6103_10:30-PROJET2025-61-Semaine-24"
-  route_id: "61"
-}
-position {
-  latitude: 43.6774521
-  longitude: 7.22852135
-  bearing: 19
-}
-timestamp: 1756801064
-stop_id: "412"
-vehicle {
-  id: "TCA73931"
-}
-
-trip {
-  trip_id: "6257279-59_R_98_5901_10:08-PROJET2025-59-Semaine-26"
-  route_id: "59"
-}
-position {
-  latitude: 43.8218307
-  longitude: 7.19203758
-  bearing: 99
-}
-timestamp: 1756801064
-stop_id: "6087"
-vehicle {
-  id: "PDV109"
-}
-
-trip {
-  trip_id: "5422165-75_A_49_7501_10:00-PROJET2024-75-Semaine-86-1101100"
-  route_id: "75"
-}
-position {
-  latitude: 43.7148666
-  longitude: 7.23849201
-  bearing: 3
-}
-timestamp: 1756801066
-stop_id: "579"
-vehicle {
-  id: "TCA73924"
-}
-
-trip {
-  trip_id: "5925340-54_A_47_5403_09:57-PROJET2025-54-Semaine-17"
-  route_id: "54"
-}
-position {
-  latitude: 43.7153282
-  longitude: 7.16875553
-  bearing: 337
-}
-timestamp: 1756801063
-stop_id: "3024"
-vehicle {
-  id: "TCA106737"
-}
-
-trip {
-  trip_id: "6077785-58_R_99_5801_10:12-PROJET2025-58-Semaine-06"
-  route_id: "58"
-}
-position {
-  latitude: 43.6658859
-  longitude: 7.16499519
-  bearing: 81
-}
-timestamp: 1756801063
-stop_id: "4287"
-vehicle {
-  id: "TCA106087"
-}
-
-trip {
-  trip_id: "5909223-NVN3_A_90_NVN301_09:55-PROJET2025-NVence3-Semaine-12"
-  route_id: "NVN3"
-}
-position {
-  latitude: 43.7220726
-  longitude: 7.11462927
-  bearing: 219
-}
-timestamp: 1756801063
-stop_id: "3234"
-vehicle {
-  id: "TCA106701"
-}
-
-trip {
-  trip_id: "6369674-30_A_50_3002_10:02-SETP2025-30-Semaine-32"
-  route_id: "30"
-}
-position {
-  latitude: 43.6882591
-  longitude: 7.29653883
-  bearing: 155
-}
-timestamp: 1756801064
-stop_id: "887"
-vehicle {
-  id: "RLA105"
-}
-
-trip {
-  trip_id: "6429279-15_A_50_1502_09:52-SETP2025-15-Semaine-11"
-  route_id: "15"
-}
-position {
-  latitude: 43.708
-  longitude: 7.3155
-  bearing: 126
-}
-timestamp: 1756801066
-stop_id: "8123"
-vehicle {
-  id: "RLA318"
-}
-
-trip {
-  trip_id: "6253039-14_R_99_1408_09:31-SETP2025-14-L-Ma-J-V-38"
-  route_id: "14"
-}
-position {
-  latitude: 43.7292442
-  longitude: 7.28398371
-  bearing: 5
-}
-timestamp: 1756801063
-stop_id: "569"
-vehicle {
-  id: "RLA481"
-}
-
-trip {
-  trip_id: "6218567-84_R_98_8403_09:26-PROJET2025-84-Semaine-04"
-  route_id: "84"
-}
-position {
-  latitude: 43.7048531
-  longitude: 7.33325
-  bearing: 41
-}
-timestamp: 1756800511
-stop_id: "8056"
-vehicle {
-  id: "SUM1757"
-}
-
-trip {
-  trip_id: "6429228-15_A_50_1503_10:16-SETP2025-15-Semaine-11"
-  route_id: "15"
-}
-position {
-  latitude: 43.7009964
-  longitude: 7.2760191
-  bearing: 296
-}
-timestamp: 1756801066
-stop_id: "312"
-vehicle {
-  id: "RLA319"
-}
-
-trip {
-  trip_id: "6327211-17_R_99_1706_09:46-SETP2025-17-L-Ma-J-V-35"
-  route_id: "17"
-}
-position {
-  latitude: 43.6785049
-  longitude: 7.22763062
-  bearing: 223
-}
-timestamp: 1756801064
-stop_id: "602"
-vehicle {
-  id: "RLA154"
-}
-
-trip {
-  trip_id: "6252470-11_A_49_1107_10:22-SETP2025-11-Semaine-37"
-  route_id: "11"
-}
-position {
-  latitude: 43.7328148
-  longitude: 7.26946211
-  bearing: 342
-}
-timestamp: 1756801063
-stop_id: "109"
-vehicle {
-  id: "RLA376"
-}
-
-trip {
-  trip_id: "6424180-16_A_50_1602_10:19-SETP2025-16-Semaine-35"
-  route_id: "16"
-}
-position {
-  latitude: 43.722477
-  longitude: 7.27226877
-  bearing: 200
-}
-timestamp: 1756801064
-stop_id: "243"
-vehicle {
-  id: "RLA160"
-}
-
-trip {
-  trip_id: "6327117-17_A_50_1705_09:57-SETP2025-17-L-Ma-J-V-35"
-  route_id: "17"
-}
-position {
-  latitude: 43.6744308
-  longitude: 7.22051382
-  bearing: 292
-}
-timestamp: 1756801064
-stop_id: "485"
-vehicle {
-  id: "RLA167"
-}
-
-trip {
-  trip_id: "4669758-62_A_48_6201_10:10-RESEAU2023-62-Semaine-17"
-  route_id: "62"
-}
-position {
-  latitude: 43.6973381
-  longitude: 7.23140621
-  bearing: 309
-}
-timestamp: 1756801063
-stop_id: "265"
-vehicle {
-  id: "TCA73927"
-}
-
-trip {
-  trip_id: "6253007-14_R_99_1401_09:22-SETP2025-14-L-Ma-J-V-38"
-  route_id: "14"
-}
-position {
-  latitude: 43.7381516
-  longitude: 7.30944729
-  bearing: 25
-}
-timestamp: 1756801063
-stop_id: "7175"
-vehicle {
-  id: "RLA483"
-}
-
-trip {
-  trip_id: "6414223-07_R_97_0711_08:48-SETP2025-07-L-Ma-J-V-41"
+  trip_id: "6443682-07_R_97_0711_11:54-SETP2025-07-Mercredi-41"
   route_id: "07"
 }
-position {
-  latitude: 43.7387161
-  longitude: 7.30768728
-  bearing: 17
+vehicle {
+  id: "RLA436"
 }
-timestamp: 1756801064
-stop_id: "1065"
+position {
+  latitude: 43.7207375
+  longitude: 7.2880435
+  bearing: 45
+}
+stop_id: "26"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6443658-07_A_49_0702_12:10-SETP2025-07-Mercredi-41"
+  route_id: "07"
+}
 vehicle {
   id: "RLA450"
 }
+position {
+  latitude: 43.7349472
+  longitude: 7.29656601
+  bearing: 159
+}
+stop_id: "868"
+timestamp: 1756894721
 
 trip {
-  trip_id: "6252467-11_A_49_1106_09:46-SETP2025-11-Semaine-37"
-  route_id: "11"
+  trip_id: "5909227-NVN3_A_90_NVN301_12:15-PROJET2025-NVence3-Semaine-12"
+  route_id: "NVN3"
 }
-position {
-  latitude: 43.7091827
-  longitude: 7.25598431
-  bearing: 178
-}
-timestamp: 1756801063
-stop_id: "1349"
 vehicle {
-  id: "RLA281"
-}
-
-trip {
-  trip_id: "6429232-15_A_50_1507_09:39-SETP2025-15-Semaine-11"
-  route_id: "15"
+  id: "TCA106701"
 }
 position {
-  latitude: 43.70467
-  longitude: 7.32149696
-  bearing: 154
+  latitude: 43.7266121
+  longitude: 7.11234665
+  bearing: 62
 }
-timestamp: 1756801066
-stop_id: "8002"
-vehicle {
-  id: "RLA312"
-}
+stop_id: "3269"
+timestamp: 1756894721
 
 trip {
-  trip_id: "6428406-61_A_50_6101_08:30-PROJET2025-61-Semaine-24"
-  route_id: "61"
+  trip_id: "6365945-20_A_50_2001_12:06-SETP2025-20-Semaine-42"
+  route_id: "20"
 }
-position {
-  latitude: 43.6813889
-  longitude: 7.22506237
-  bearing: 35
-}
-timestamp: 1756801064
-stop_id: "1222"
-vehicle {
-  id: "TCA73926"
-}
-
-trip {
-  trip_id: "6416054-21_A_50_2101_10:27-SETP2025-21-Semaine-40"
-  route_id: "21"
-}
-position {
-  latitude: 43.6691284
-  longitude: 7.21015501
-  bearing: 264
-}
-timestamp: 1756801064
-stop_id: "2963"
-vehicle {
-  id: "RLA330"
-}
-
-trip {
-  trip_id: "6411436-70_A_50_7001_10:00-SETP2025-70-Semaine-35"
-  route_id: "70"
-}
-position {
-  latitude: 43.7053566
-  longitude: 7.2653017
-  bearing: 65
-}
-timestamp: 1756801063
-stop_id: "1124"
-vehicle {
-  id: "RLA335"
-}
-
-trip {
-  trip_id: "6472679-50_A_50_5003_10:00-PROJET2025-50-Semaine-08"
-  route_id: "50"
-}
-position {
-  latitude: 43.6814117
-  longitude: 7.20545864
-  bearing: 193
-}
-timestamp: 1756801064
-stop_id: "1308"
-vehicle {
-  id: "TCA115117"
-}
-
-trip {
-  trip_id: "6409601-57_R_99_5703_10:10-SETP2025-57-Semaine-06"
-  route_id: "57"
-}
-position {
-  latitude: 43.72612
-  longitude: 7.25559187
-  bearing: 175
-}
-timestamp: 1756801064
-stop_id: "709"
-vehicle {
-  id: "RLA612"
-}
-
-trip {
-  trip_id: "6355821-18_A_50_1805_10:18-SETP2025-18-Semaine-39"
-  route_id: "18"
-}
-position {
-  latitude: 43.7057037
-  longitude: 7.28968716
-  bearing: 274
-}
-timestamp: 1756801064
-stop_id: "1152"
-vehicle {
-  id: "RLA619"
-}
-
-trip {
-  trip_id: "6409574-57_A_50_5713_10:15-SETP2025-57-Semaine-06"
-  route_id: "57"
-}
-position {
-  latitude: 43.7023468
-  longitude: 7.28773403
-  bearing: 204
-}
-timestamp: 1756801064
-stop_id: "87"
-vehicle {
-  id: "RLA608"
-}
-
-trip {
-  trip_id: "6252962-14_R_99_1402_09:49-SETP2025-14-L-Ma-J-V-38"
-  route_id: "14"
-}
-position {
-  latitude: 43.7082596
-  longitude: 7.28727
-  bearing: 101
-}
-timestamp: 1756801063
-stop_id: "1250"
-vehicle {
-  id: "RLA488"
-}
-
-trip {
-  trip_id: "6409602-57_R_99_5708_10:25-SETP2025-57-Semaine-06"
-  route_id: "57"
-}
-position {
-  latitude: 43.7297401
-  longitude: 7.24808168
-  bearing: 288
-}
-timestamp: 1756801064
-stop_id: "2826"
-vehicle {
-  id: "RLA609"
-}
-
-trip {
-  trip_id: "6355778-18_R_99_1803_09:52-SETP2025-18-Semaine-39"
-  route_id: "18"
-}
-position {
-  latitude: 43.7228394
-  longitude: 7.28202534
-  bearing: 1
-}
-timestamp: 1756801064
-stop_id: "2694"
-vehicle {
-  id: "RLA620"
-}
-
-trip {
-  trip_id: "5838466-52_A_6_5201_10:00-PROJET2025-52-Semaine-20"
-  route_id: "52"
-}
-position {
-  latitude: 43.7478523
-  longitude: 7.21682119
-  bearing: 351
-}
-timestamp: 1756801063
-stop_id: "1396"
-vehicle {
-  id: "TCA115115"
-}
-
-trip {
-  trip_id: "6414228-07_R_97_0701_09:29-SETP2025-07-L-Ma-J-V-41"
-  route_id: "07"
-}
-position {
-  latitude: 43.7305298
-  longitude: 7.28563356
-  bearing: 80
-}
-timestamp: 1756801064
-stop_id: "466"
-vehicle {
-  id: "RLA463"
-}
-
-trip {
-  trip_id: "6416426-33_A_50_3301_10:31-SETP2025-33-L-Ma-J-V-36"
-  route_id: "33"
-}
-position {
-  latitude: 43.7226181
-  longitude: 7.27232933
-  bearing: 204
-}
-timestamp: 1756801063
-stop_id: "243"
 vehicle {
   id: "RLA343"
 }
-
-trip {
-  trip_id: "6409599-57_R_99_5710_09:40-SETP2025-57-Semaine-06"
-  route_id: "57"
-}
 position {
-  latitude: 43.7006454
-  longitude: 7.27533436
-  bearing: 43
+  latitude: 43.6620903
+  longitude: 7.19341516
+  bearing: 37
 }
-timestamp: 1756801064
-stop_id: "312"
-vehicle {
-  id: "RLA615"
-}
+stop_id: "21543"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6102485-63_A_48_6304_09:30-PROJET2025-63-Semaine-72-1101100"
-  route_id: "63"
+  trip_id: "6428430-61_R_99_6102_12:00-PROJET2025-61-Semaine-24"
+  route_id: "61"
 }
-position {
-  latitude: 43.7290192
-  longitude: 7.25158215
-  bearing: 230
-}
-timestamp: 1756801064
-stop_id: "1427"
 vehicle {
-  id: "TCA73940"
-}
-
-trip {
-  trip_id: "6102486-63_A_48_6305_09:50-PROJET2025-63-Semaine-72-1101100"
-  route_id: "63"
-}
-position {
-  latitude: 43.7361374
-  longitude: 7.23745823
-  bearing: 354
-}
-timestamp: 1756801064
-stop_id: "372"
-vehicle {
-  id: "TCA73939"
-}
-
-trip {
-  trip_id: "6414230-07_R_97_0704_09:46-SETP2025-07-L-Ma-J-V-41"
-  route_id: "07"
-}
-position {
-  latitude: 43.7019196
-  longitude: 7.28853416
-  bearing: 27
-}
-timestamp: 1756801064
-stop_id: "86"
-vehicle {
-  id: "RLA449"
-}
-
-trip {
-  trip_id: "6428283-60_R_99_6003_10:20-PROJET2025-60-Semaine-08"
-  route_id: "chouette:Line:4a8dc505-72e7-4b72-b186-a5b46e94fb82:LOC"
+  id: "TCA73965"
 }
 position {
   latitude: 43.7082
-  longitude: 7.21232128
-  bearing: 13
+  longitude: 7.21274376
+  bearing: 269
 }
-timestamp: 1756801066
-stop_id: "300"
-vehicle {
-  id: "TCA73932"
-}
+stop_id: "157"
+timestamp: 1756894721
 
 trip {
-  trip_id: "6218545-84_R_99_8402_10:01-PROJET2025-84-Semaine-04"
-  route_id: "84"
+  trip_id: "5925301-54_R_99_5403_12:09-PROJET2025-54-Semaine-17"
+  route_id: "54"
+}
+vehicle {
+  id: "TCA106737"
 }
 position {
-  latitude: 43.7122345
-  longitude: 7.33317566
-  bearing: 37
+  latitude: 43.7503281
+  longitude: 7.14444447
+  bearing: 275
 }
-timestamp: 1756800513
-stop_id: "8203"
-vehicle {
-  id: "SUM1752"
-}
+stop_id: "3119"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6413080-38_R_99_3804_10:03-SETP2025-38-Semaine-41"
-  route_id: "38"
+  trip_id: "5408552-82_A_50_8201_11:55-PROJET2024-82-Semaine-93"
+  route_id: "82"
+}
+vehicle {
+  id: "SUM1826"
 }
 position {
-  latitude: 43.6999741
-  longitude: 7.25616884
-  bearing: 180
+  latitude: 43.7010307
+  longitude: 7.28598309
+  bearing: 112
 }
-timestamp: 1756801063
-stop_id: "21"
-vehicle {
-  id: "RLA43"
-}
+stop_id: "98"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6416024-21_R_99_2103_09:48-SETP2025-21-Semaine-40"
-  route_id: "21"
+  trip_id: "6443685-07_R_97_0709_12:23-SETP2025-07-Mercredi-41"
+  route_id: "07"
+}
+vehicle {
+  id: "RLA279"
 }
 position {
-  latitude: 43.6651917
-  longitude: 7.17302513
-  bearing: 55
+  latitude: 43.6990166
+  longitude: 7.28496265
+  bearing: 6
 }
-timestamp: 1756801064
-stop_id: "4006"
-vehicle {
-  id: "RLA336"
-}
+stop_id: "701"
+timestamp: 1756894721
 
 trip {
-  trip_id: "4601770-44_A_50_4401_10:20-RESEAU2023-44-Semaine-88"
-  route_id: "44"
+  trip_id: "6252479-11_A_49_1104_12:10-SETP2025-11-Semaine-37"
+  route_id: "11"
+}
+vehicle {
+  id: "RLA363"
 }
 position {
-  latitude: 43.6649132
-  longitude: 7.15135813
-  bearing: 159
+  latitude: 43.7205391
+  longitude: 7.26235819
+  bearing: 197
 }
-timestamp: 1756801064
-stop_id: "4145"
-vehicle {
-  id: "TCA108035"
-}
+stop_id: "1240"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6416367-51_R_98_5105_10:04-PROJET2025-51-Semaine-10"
-  route_id: "51"
+  trip_id: "6419989-35_A_50_3503_11:59-SETP2025-35-Semaine-35"
+  route_id: "35"
+}
+vehicle {
+  id: "RLA132"
 }
 position {
-  latitude: 43.6924591
-  longitude: 7.20496655
-  bearing: 32
+  latitude: 43.7207146
+  longitude: 7.27584028
+  bearing: 266
 }
-timestamp: 1756801063
-stop_id: "37"
-vehicle {
-  id: "TCA115156"
-}
+stop_id: "1095"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6420118-85_A_47_8501_10:15-PROJET2025-85-Semaine-06-1101100"
-  route_id: "85"
+  trip_id: "4669784-62_R_98_6203_12:00-RESEAU2023-62-Semaine-17"
+  route_id: "62"
+}
+vehicle {
+  id: "TCA73928"
 }
 position {
-  latitude: 43.7434807
-  longitude: 7.3172946
+  latitude: 43.6950188
+  longitude: 7.2369976
+  bearing: 123
+}
+stop_id: "138"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6409608-57_R_99_5710_11:55-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA621"
+}
+position {
+  latitude: 43.7250099
+  longitude: 7.24755669
   bearing: 239
 }
-timestamp: 1756801063
-stop_id: "7314"
-vehicle {
-  id: "SUM1749"
-}
+stop_id: "2988"
+timestamp: 1756894721
 
 trip {
-  trip_id: "6261657-73_R_95_7302_10:03-PROJET2025-73-Semaine-16"
-  route_id: "73"
-}
-position {
-  latitude: 43.672
-  longitude: 7.19321
-  bearing: 71
-}
-timestamp: 1756801066
-stop_id: "5135"
-vehicle {
-  id: "PDV83"
-}
-
-trip {
-  trip_id: "6428312-60_R_99_6002_10:00-PROJET2025-60-Semaine-08"
-  route_id: "chouette:Line:4a8dc505-72e7-4b72-b186-a5b46e94fb82:LOC"
-}
-position {
-  latitude: 43.6938248
-  longitude: 7.24179
-  bearing: 154
-}
-timestamp: 1756801066
-stop_id: "178"
-vehicle {
-  id: "TCA73925"
-}
-
-trip {
-  trip_id: "6355819-18_A_50_1804_09:47-SETP2025-18-Semaine-39"
-  route_id: "18"
-}
-position {
-  latitude: 43.7248497
-  longitude: 7.27104187
-  bearing: 325
-}
-timestamp: 1756801064
-stop_id: "786"
-vehicle {
-  id: "RLA614"
-}
-
-trip {
-  trip_id: "4523342-88_A_50_8801_09:30-RESEAU2023-88-Semaine-83-1101100"
-  route_id: "88"
-}
-position {
-  latitude: 43.7487488
-  longitude: 7.29709339
-  bearing: 27
-}
-timestamp: 1756801063
-stop_id: "1083"
-vehicle {
-  id: "SUM1748"
-}
-
-trip {
-  trip_id: "6018952-55_A_48_5501_10:15-PROJET2025-55-Semaine-08"
+  trip_id: "6018957-55_A_48_5501_12:00-PROJET2025-55-Semaine-08"
   route_id: "55"
 }
-position {
-  latitude: 43.6610641
-  longitude: 7.19149065
-  bearing: 61
-}
-timestamp: 1756801063
-stop_id: "5221"
 vehicle {
   id: "TCA73967"
 }
+position {
+  latitude: 43.6787796
+  longitude: 7.18871546
+  bearing: 324
+}
+stop_id: "5245"
+timestamp: 1756894721
 
 trip {
-  trip_id: "6369832-49_R_95_4901_08:10-PROJET2025-49-Semaine-08"
-  route_id: "chouette:Line:07759d26-564a-4043-bd2d-d1e0c98d686c:LOC"
+  trip_id: "6140088-41_R_99_4101_12:15-PROJET2025-41-Semaine-05"
+  route_id: "41"
+}
+vehicle {
+  id: "TCA108192"
 }
 position {
-  latitude: 43.6858
-  longitude: 7.14944553
-  bearing: 105
+  latitude: 43.6720543
+  longitude: 7.16277504
+  bearing: 127
 }
-timestamp: 1756796760
-stop_id: "4112"
-vehicle {
-  id: "TCA109005"
-}
+stop_id: "4025"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6462508-31_R_97_3102_10:10-PROJET2025-31-Semaine-08"
-  route_id: "31"
-}
-position {
-  latitude: 43.708847
-  longitude: 7.22992182
-  bearing: 160
-}
-timestamp: 1756801063
-stop_id: "1626"
-vehicle {
-  id: "TCA117298"
-}
-
-trip {
-  trip_id: "6412100-37_R_99_3702_10:28-SETP2025-37-Semaine-37"
+  trip_id: "6412103-37_R_99_3701_12:07-SETP2025-37-Semaine-37"
   route_id: "37"
 }
-position {
-  latitude: 43.7161
-  longitude: 7.2632823
-  bearing: 6
-}
-timestamp: 1756798689
-stop_id: "2649"
 vehicle {
-  id: "RLA5"
-}
-
-trip {
-  trip_id: "6327194-17_R_99_1707_10:10-SETP2025-17-L-Ma-J-V-35"
-  route_id: "17"
+  id: "RLA16"
 }
 position {
-  latitude: 43.6826935
-  longitude: 7.20309448
-  bearing: 165
+  latitude: 43.7134361
+  longitude: 7.27134562
+  bearing: 95
 }
-timestamp: 1756801064
-stop_id: "916"
-vehicle {
-  id: "RLA166"
-}
+stop_id: "1542"
+timestamp: 1756894721
 
 trip {
-  trip_id: "5203694-68_R_99_6803_10:13-PROJET2024-68-Semaine-15"
-  route_id: "68"
-}
-position {
-  latitude: 43.7921371
-  longitude: 7.20749903
-  bearing: 140
-}
-timestamp: 1756801064
-stop_id: "21273"
-vehicle {
-  id: "PDV46"
-}
-
-trip {
-  trip_id: "6429215-15_A_50_1506_10:04-SETP2025-15-Semaine-11"
-  route_id: "15"
-}
-position {
-  latitude: 43.698822
-  longitude: 7.28645134
-  bearing: 186
-}
-timestamp: 1756801066
-stop_id: "703"
-vehicle {
-  id: "RLA313"
-}
-
-trip {
-  trip_id: "6419974-35_A_50_3503_09:47-SETP2025-35-Semaine-35"
+  trip_id: "6419992-35_R_99_3501_12:33-SETP2025-35-Semaine-35"
   route_id: "35"
 }
-position {
-  latitude: 43.7354317
-  longitude: 7.27895403
-  bearing: 33
-}
-timestamp: 1756801064
-stop_id: "553"
 vehicle {
-  id: "RLA131"
-}
-
-trip {
-  trip_id: "6414218-07_A_49_0702_09:08-SETP2025-07-L-Ma-J-V-41"
-  route_id: "07"
+  id: "RLA135"
 }
 position {
-  latitude: 43.7083359
-  longitude: 7.29149961
-  bearing: 84
+  latitude: 43.7275
+  longitude: 7.25187922
+  bearing: 99
 }
-timestamp: 1756801064
-stop_id: "480"
-vehicle {
-  id: "RLA438"
-}
+stop_id: "1427"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6272266-91_A_50_9101_08:40-PROJET2025-91-Semaine-28"
-  route_id: "91"
+  trip_id: "6414836-34_A_9_3402_12:10-PROJET2025-34-Mercredi-20"
+  route_id: "34"
+}
+vehicle {
+  id: "TCA73968"
 }
 position {
-  latitude: 44.1850929
-  longitude: 7.05468
-  bearing: 153
+  latitude: 43.6885185
+  longitude: 7.23040676
+  bearing: 279
 }
-timestamp: 1756801063
-stop_id: "21418"
-vehicle {
-  id: "TRA233016"
-}
+stop_id: "5"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6369749-42_R_95_4203_09:35-PROJET2025-42-Semaine-83"
-  route_id: "42"
+  trip_id: "6428427-61_A_50_6103_12:10-PROJET2025-61-Semaine-24"
+  route_id: "61"
+}
+vehicle {
+  id: "TCA73931"
 }
 position {
-  latitude: 43.6622772
-  longitude: 7.14935493
-  bearing: 190
+  latitude: 43.6787415
+  longitude: 7.22689056
+  bearing: 339
 }
-timestamp: 1756801063
-stop_id: "4001"
-vehicle {
-  id: "TCA108191"
-}
+stop_id: "969"
+timestamp: 1756894721
 
 trip {
-  trip_id: "5838479-52_R_5_5202_09:55-PROJET2025-52-Semaine-20"
+  trip_id: "6428429-61_R_99_6105_11:40-PROJET2025-61-Semaine-24"
+  route_id: "61"
+}
+vehicle {
+  id: "TCA71107"
+}
+position {
+  latitude: 43.6768265
+  longitude: 7.22565651
+  bearing: 217
+}
+stop_id: "1525"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6409606-57_R_99_5713_11:25-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA612"
+}
+position {
+  latitude: 43.7030258
+  longitude: 7.27827024
+  bearing: 87
+}
+stop_id: "148"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6429236-15_R_99_1505_11:43-SETP2025-15-Semaine-11"
+  route_id: "15"
+}
+vehicle {
+  id: "RLA326"
+}
+position {
+  latitude: 43.7036438
+  longitude: 7.30918407
+  bearing: 194
+}
+stop_id: "8129"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6428428-61_A_50_6101_11:50-PROJET2025-61-Semaine-24"
+  route_id: "61"
+}
+vehicle {
+  id: "TCA73926"
+}
+position {
+  latitude: 43.7031364
+  longitude: 7.22155046
+  bearing: 161
+}
+stop_id: "670"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6429258-15_A_50_1503_11:52-SETP2025-15-Semaine-11"
+  route_id: "15"
+}
+vehicle {
+  id: "RLA319"
+}
+position {
+  latitude: 43.6982651
+  longitude: 7.28660822
+  bearing: 97
+}
+stop_id: "2588"
+timestamp: 1756894721
+
+trip {
+  trip_id: "5838481-52_R_5_5202_11:55-PROJET2025-52-Semaine-20"
   route_id: "52"
 }
-position {
-  latitude: 43.7287903
-  longitude: 7.21785164
-  bearing: 171
-}
-timestamp: 1756801063
-stop_id: "2974"
 vehicle {
   id: "TCA115114"
 }
+position {
+  latitude: 43.7220573
+  longitude: 7.20858288
+  bearing: 187
+}
+stop_id: "2556"
+timestamp: 1756894721
 
 trip {
-  trip_id: "6403256-36_R_99_3602_09:55-SETP2025-36-Semaine-33"
-  route_id: "36"
+  trip_id: "6413092-38_R_99_3803_11:58-SETP2025-38-Semaine-41"
+  route_id: "38"
+}
+vehicle {
+  id: "RLA38"
 }
 position {
-  latitude: 43.7296295
-  longitude: 7.2718339
-  bearing: 49
+  latitude: 43.6945953
+  longitude: 7.25152159
+  bearing: 282
 }
-timestamp: 1756801064
-stop_id: "1130"
-vehicle {
-  id: "RLA14"
-}
+stop_id: "493"
+timestamp: 1756894721
 
 trip {
-  trip_id: "6428422-61_A_50_6104_09:50-PROJET2025-61-Semaine-24"
-  route_id: "61"
+  trip_id: "6444030-14_A_50_1405_11:53-SETP2025-14-Mercredi-38"
+  route_id: "14"
+}
+vehicle {
+  id: "RLA482"
 }
 position {
-  latitude: 43.6963539
-  longitude: 7.23378
-  bearing: 127
+  latitude: 43.7140732
+  longitude: 7.28425169
+  bearing: 183
 }
-timestamp: 1756801064
-stop_id: "1162"
-vehicle {
-  id: "TCA108188"
-}
+stop_id: "557"
+timestamp: 1756894723
 
 trip {
-  trip_id: "5203677-68_A_50_6801_10:26-PROJET2024-68-Semaine-15"
+  trip_id: "6444566-17_A_50_1706_11:54-SETP2025-17-Mercredi-35"
+  route_id: "17"
+}
+vehicle {
+  id: "RLA156"
+}
+position {
+  latitude: 43.674942
+  longitude: 7.2151885
+  bearing: 244
+}
+stop_id: "991"
+timestamp: 1756894721
+
+trip {
+  trip_id: "4669777-62_A_48_6204_11:25-RESEAU2023-62-Semaine-17"
+  route_id: "62"
+}
+vehicle {
+  id: "TCA73934"
+}
+position {
+  latitude: 43.6922188
+  longitude: 7.24457645
+  bearing: 335
+}
+stop_id: "2828"
+timestamp: 1756890424
+
+trip {
+  trip_id: "5203682-68_A_50_6802_12:03-PROJET2024-68-Semaine-15"
   route_id: "68"
 }
-position {
-  latitude: 43.77388
-  longitude: 7.1927371
-  bearing: 259
-}
-timestamp: 1756801064
-stop_id: "21642"
 vehicle {
-  id: "PDV9"
+  id: "PDV97"
 }
+position {
+  latitude: 43.7674751
+  longitude: 7.20298576
+  bearing: 31
+}
+stop_id: "2907"
+timestamp: 1756894723
 
 trip {
-  trip_id: "5759384-NVN2_A_50_NVN201_10:20-PROJET2024-NVence2-Semaine-12"
-  route_id: "NVN2"
+  trip_id: "6355785-18_R_99_1801_11:59-SETP2025-18-Semaine-39"
+  route_id: "18"
+}
+vehicle {
+  id: "RLA626"
 }
 position {
-  latitude: 43.7231522
-  longitude: 7.10824633
-  bearing: 279
+  latitude: 43.720192
+  longitude: 7.27493143
+  bearing: 236
 }
-timestamp: 1756801064
-stop_id: "3257"
+stop_id: "45"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6409579-57_A_50_5708_11:30-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA623"
+}
+position {
+  latitude: 43.7052116
+  longitude: 7.26483154
+  bearing: 274
+}
+stop_id: "1446"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6472683-50_A_50_5003_12:24-PROJET2025-50-Semaine-08"
+  route_id: "50"
+}
+vehicle {
+  id: "TCA115117"
+}
+position {
+  latitude: 43.6769066
+  longitude: 7.22819567
+  bearing: 17
+}
+stop_id: "2832"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6444340-33_A_50_3301_12:00-SETP2025-33-Mercredi-36"
+  route_id: "33"
+}
+vehicle {
+  id: "RLA334"
+}
+position {
+  latitude: 43.7042351
+  longitude: 7.27983856
+  bearing: 208
+}
+stop_id: "148"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6355784-18_R_99_1803_11:41-SETP2025-18-Semaine-39"
+  route_id: "18"
+}
+vehicle {
+  id: "RLA608"
+}
+position {
+  latitude: 43.7108269
+  longitude: 7.28797197
+  bearing: 185
+}
+stop_id: "67"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6412124-37_A_50_3702_12:09-SETP2025-37-Semaine-37"
+  route_id: "37"
+}
+vehicle {
+  id: "RLA18"
+}
+position {
+  latitude: 43.7071419
+  longitude: 7.27955866
+  bearing: 272
+}
+stop_id: "2916"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6018956-55_R_98_5502_11:45-PROJET2025-55-Semaine-08"
+  route_id: "55"
+}
+vehicle {
+  id: "TCA73973"
+}
+position {
+  latitude: 43.6629906
+  longitude: 7.19392776
+  bearing: 170
+}
+stop_id: "5218"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6446907-05_A_99_0503_12:14-SETP2025-05-Mercredi-38"
+  route_id: "05"
+}
+vehicle {
+  id: "RLA362"
+}
+position {
+  latitude: 43.6982956
+  longitude: 7.2703023
+  bearing: 155
+}
+stop_id: "14"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6471135-22_R_95_2202_12:15-PROJET2025-22-Mercredi-20"
+  route_id: "22"
+}
+vehicle {
+  id: "PDV110804"
+}
+position {
+  latitude: 43.7735214
+  longitude: 7.19177771
+  bearing: 42
+}
+stop_id: "21260"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6429318-15_R_99_1504_11:30-SETP2025-15-Semaine-11"
+  route_id: "15"
+}
+vehicle {
+  id: "RLA333"
+}
+position {
+  latitude: 43.7007599
+  longitude: 7.27750444
+  bearing: 205
+}
+stop_id: "2581"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6471127-22_A_45_2205_12:30-PROJET2025-22-Mercredi-20"
+  route_id: "22"
+}
+vehicle {
+  id: "PDV94"
+}
+position {
+  latitude: 43.6762085
+  longitude: 7.1990056
+  bearing: 155
+}
+stop_id: "2852"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6402511-32_A_48_3202_12:18-SETP2025-32-Semaine-34"
+  route_id: "32"
+}
+vehicle {
+  id: "RLA339"
+}
+position {
+  latitude: 43.6766281
+  longitude: 7.22800112
+  bearing: 21
+}
+stop_id: "2831"
+timestamp: 1756894723
+
+trip {
+  trip_id: "5925327-54_A_47_5401_11:58-PROJET2025-54-Semaine-17"
+  route_id: "54"
+}
+vehicle {
+  id: "TCA73916"
+}
+position {
+  latitude: 43.6830559
+  longitude: 7.17916965
+  bearing: 23
+}
+stop_id: "5107"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6355826-18_A_50_1805_11:58-SETP2025-18-Semaine-39"
+  route_id: "18"
+}
+vehicle {
+  id: "RLA611"
+}
+position {
+  latitude: 43.7235
+  longitude: 7.28309393
+  bearing: 268
+}
+stop_id: "1502"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6368864-09_R_99_0902_11:54-PROJET2025-09-Semaine-35"
+  route_id: "09"
+}
+vehicle {
+  id: "TCA108951"
+}
+position {
+  latitude: 43.6625938
+  longitude: 7.14950228
+  bearing: 201
+}
+stop_id: "4001"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6444376-33_R_99_3304_12:06-SETP2025-33-Mercredi-36"
+  route_id: "33"
+}
+vehicle {
+  id: "RLA171"
+}
+position {
+  latitude: 43.6991158
+  longitude: 7.29386377
+  bearing: 0
+}
+stop_id: "1097"
+timestamp: 1756894721
+
+trip {
+  trip_id: "4601803-44_R_99_4401_11:28-RESEAU2023-44-Semaine-88"
+  route_id: "44"
+}
+vehicle {
+  id: "TCA109005"
+}
+position {
+  latitude: 43.6857452
+  longitude: 7.14942932
+  bearing: 90
+}
+stop_id: "4135"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6368846-09_A_50_0905_12:03-PROJET2025-09-Semaine-35"
+  route_id: "09"
+}
+vehicle {
+  id: "TCA109585"
+}
+position {
+  latitude: 43.6637764
+  longitude: 7.13033676
+  bearing: 138
+}
+stop_id: "4274"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6257193-63_R_98_6305_12:20-PROJET2025-63-Mercredi-73"
+  route_id: "63"
+}
+vehicle {
+  id: "TCA73948"
+}
+position {
+  latitude: 43.727787
+  longitude: 7.25195026
+  bearing: 336
+}
+stop_id: "1427"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6261659-73_R_95_7302_11:30-PROJET2025-73-Semaine-16"
+  route_id: "73"
+}
+vehicle {
+  id: "PDV83"
+}
+position {
+  latitude: 43.7053146
+  longitude: 7.17770243
+  bearing: 0
+}
+stop_id: "5080"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6369776-42_A_5_4202_11:46-PROJET2025-42-Semaine-83"
+  route_id: "42"
+}
+vehicle {
+  id: "TCA108185"
+}
+position {
+  latitude: 43.6703568
+  longitude: 7.16422796
+  bearing: 143
+}
+stop_id: "4042"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6140111-41_A_5_4102_12:15-PROJET2025-41-Semaine-05"
+  route_id: "41"
+}
+vehicle {
+  id: "TCA73076"
+}
+position {
+  latitude: 43.6646919
+  longitude: 7.15140438
+  bearing: 237
+}
+stop_id: "4001"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6420151-85_R_94_8501_10:35-PROJET2025-85-Mercredi-06"
+  route_id: "85"
+}
+vehicle {
+  id: "SUM1749"
+}
+position {
+  latitude: 43.7399
+  longitude: 7.3105979
+  bearing: 23
+}
+stop_id: "7167"
+timestamp: 1756888956
+
+trip {
+  trip_id: "6368884-09_R_98_0904_12:10-PROJET2025-09-Semaine-35"
+  route_id: "09"
+}
+vehicle {
+  id: "TCA109468"
+}
+position {
+  latitude: 43.6605339
+  longitude: 7.17627287
+  bearing: 249
+}
+stop_id: "4105"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6420146-85_R_95_8501_12:03-PROJET2025-85-Mercredi-06"
+  route_id: "85"
+}
+vehicle {
+  id: "SUM1757"
+}
+position {
+  latitude: 43.7448
+  longitude: 7.31492043
+  bearing: 40
+}
+stop_id: "7109"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6365928-20_A_50_2005_11:53-SETP2025-20-Semaine-42"
+  route_id: "20"
+}
+vehicle {
+  id: "RLA340"
+}
+position {
+  latitude: 43.6807747
+  longitude: 7.18763208
+  bearing: 355
+}
+stop_id: "5025"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6411413-70_R_99_7002_12:00-SETP2025-70-Semaine-35"
+  route_id: "70"
+}
+vehicle {
+  id: "RLA328"
+}
+position {
+  latitude: 43.7088356
+  longitude: 7.25198317
+  bearing: 359
+}
+stop_id: "688"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6369753-42_R_95_4201_12:00-PROJET2025-42-Semaine-83"
+  route_id: "42"
+}
+vehicle {
+  id: "TCA108190"
+}
+position {
+  latitude: 43.6615639
+  longitude: 7.18645096
+  bearing: 269
+}
+stop_id: "5002"
+timestamp: 1756894723
+
+trip {
+  trip_id: "4601805-44_A_50_4401_12:00-RESEAU2023-44-Semaine-88"
+  route_id: "44"
+}
+vehicle {
+  id: "TCA108035"
+}
+position {
+  latitude: 43.6857643
+  longitude: 7.14944315
+  bearing: 281
+}
+stop_id: "4148"
+timestamp: 1756893867
+
+trip {
+  trip_id: "5759387-NVN2_A_50_NVN201_12:20-PROJET2024-NVence2-Semaine-12"
+  route_id: "NVN2"
+}
 vehicle {
   id: "TCA106921"
 }
+position {
+  latitude: 43.7231
+  longitude: 7.1082921
+  bearing: 283
+}
+stop_id: "3257"
+timestamp: 1756894723
 
 trip {
-  trip_id: "6414217-07_A_49_0710_08:58-SETP2025-07-L-Ma-J-V-41"
+  trip_id: "6444201-17_A_50_1703_12:20-SETP2025-17-Mercredi-35"
+  route_id: "17"
+}
+vehicle {
+  id: "RLA158"
+}
+position {
+  latitude: 43.677124
+  longitude: 7.2282238
+  bearing: 20
+}
+stop_id: "2712"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6472659-50_R_99_5001_11:22-PROJET2025-50-Semaine-08"
+  route_id: "50"
+}
+vehicle {
+  id: "TCA115514"
+}
+position {
+  latitude: 43.6757965
+  longitude: 7.19919872
+  bearing: 330
+}
+stop_id: "2743"
+timestamp: 1756891400
+
+trip {
+  trip_id: "6428343-60_R_99_6003_12:20-PROJET2025-60-Semaine-08"
+  route_id: "chouette:Line:4a8dc505-72e7-4b72-b186-a5b46e94fb82:LOC"
+}
+vehicle {
+  id: "TCA73932"
+}
+position {
+  latitude: 43.7082405
+  longitude: 7.21234941
+  bearing: 8
+}
+stop_id: "300"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6077788-58_A_50_5801_12:15-PROJET2025-58-Semaine-06"
+  route_id: "58"
+}
+vehicle {
+  id: "TCA106087"
+}
+position {
+  latitude: 43.6740379
+  longitude: 7.1896596
+  bearing: 153
+}
+stop_id: "5070"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6402528-32_R_97_3201_12:17-SETP2025-32-Semaine-34"
+  route_id: "32"
+}
+vehicle {
+  id: "RLA336"
+}
+position {
+  latitude: 43.6784019
+  longitude: 7.2107749
+  bearing: 150
+}
+stop_id: "1080"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6444203-17_A_50_1707_12:07-SETP2025-17-Mercredi-35"
+  route_id: "17"
+}
+vehicle {
+  id: "RLA167"
+}
+position {
+  latitude: 43.6845551
+  longitude: 7.22710896
+  bearing: 296
+}
+stop_id: "473"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6416028-21_R_99_2103_11:44-SETP2025-21-Semaine-40"
+  route_id: "21"
+}
+vehicle {
+  id: "RLA341"
+}
+position {
+  latitude: 43.66856
+  longitude: 7.1850009
+  bearing: 64
+}
+stop_id: "5029"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6413097-38_A_50_3805_12:06-SETP2025-38-Semaine-41"
+  route_id: "38"
+}
+vehicle {
+  id: "RLA13"
+}
+position {
+  latitude: 43.6992645
+  longitude: 7.26990318
+  bearing: 160
+}
+stop_id: "1179"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6257294-59_A_45_5903_11:38-PROJET2025-59-Semaine-26"
+  route_id: "59"
+}
+vehicle {
+  id: "PDV108"
+}
+position {
+  latitude: 43.8222961
+  longitude: 7.18878555
+  bearing: 330
+}
+stop_id: "6044"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6446925-05_R_50_0501_12:05-SETP2025-05-Mercredi-38"
+  route_id: "05"
+}
+vehicle {
+  id: "RLA378"
+}
+position {
+  latitude: 43.725605
+  longitude: 7.27519941
+  bearing: 210
+}
+stop_id: "199"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6410624-64_R_99_6402_12:00-SETP2025-64-Semaine-37"
+  route_id: "64"
+}
+vehicle {
+  id: "RLA104"
+}
+position {
+  latitude: 43.7021408
+  longitude: 7.24593353
+  bearing: 158
+}
+stop_id: "522"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6443992-14_A_50_1406_12:15-SETP2025-14-Mercredi-38"
+  route_id: "14"
+}
+vehicle {
+  id: "RLA484"
+}
+position {
+  latitude: 43.7409554
+  longitude: 7.31096363
+  bearing: 162
+}
+stop_id: "7174"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6424158-16_R_96_1603_12:11-SETP2025-16-Semaine-35"
+  route_id: "16"
+}
+vehicle {
+  id: "RLA160"
+}
+position {
+  latitude: 43.7194328
+  longitude: 7.2657547
+  bearing: 53
+}
+stop_id: "749"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6257192-63_R_98_6304_12:00-PROJET2025-63-Mercredi-73"
+  route_id: "63"
+}
+vehicle {
+  id: "TCA73940"
+}
+position {
+  latitude: 43.736412
+  longitude: 7.23732948
+  bearing: 175
+}
+stop_id: "239"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6443685-07_R_97_0709_12:23-SETP2025-07-Mercredi-41"
   route_id: "07"
 }
-position {
-  latitude: 43.7064552
-  longitude: 7.29185534
-  bearing: 214
-}
-timestamp: 1756801064
-stop_id: "117"
 vehicle {
-  id: "RLA462"
+  id: "RLA447"
 }
+position {
+  latitude: 43.7404251
+  longitude: 7.30864906
+  bearing: 25
+}
+stop_id: "701"
+timestamp: 1756891930
 
 trip {
-  trip_id: "4669758-62_A_48_6201_10:10-RESEAU2023-62-Semaine-17"
-  route_id: "62"
+  trip_id: "6355827-18_A_50_1802_12:16-SETP2025-18-Semaine-39"
+  route_id: "18"
+}
+vehicle {
+  id: "RLA620"
 }
 position {
-  latitude: 43.7082672
-  longitude: 7.26964331
-  bearing: 75
+  latitude: 43.7054
+  longitude: 7.28968906
+  bearing: 113
 }
-timestamp: 1756800242
-stop_id: "1619"
+stop_id: "1152"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6416364-51_A_49_5105_11:56-PROJET2025-51-Semaine-10"
+  route_id: "51"
+}
+vehicle {
+  id: "TCA115515"
+}
+position {
+  latitude: 43.6862946
+  longitude: 7.20856142
+  bearing: 153
+}
+stop_id: "359"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6446873-05_R_49_0503_09:20-SETP2025-05-Mercredi-38"
+  route_id: "05"
+}
+vehicle {
+  id: "RLA377"
+}
+position {
+  latitude: 43.7245102
+  longitude: 7.27535343
+  bearing: 154
+}
+stop_id: "199"
+timestamp: 1756884899
+
+trip {
+  trip_id: "6416029-21_R_99_2104_12:11-SETP2025-21-Semaine-40"
+  route_id: "21"
+}
+vehicle {
+  id: "RLA327"
+}
+position {
+  latitude: 43.6632042
+  longitude: 7.14726257
+  bearing: 126
+}
+stop_id: "4053"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6444013-14_R_99_1404_12:05-SETP2025-14-Mercredi-38"
+  route_id: "14"
+}
+vehicle {
+  id: "RLA487"
+}
+position {
+  latitude: 43.7221375
+  longitude: 7.28978872
+  bearing: 39
+}
+stop_id: "26"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6446933-05_R_49_0507_12:11-SETP2025-05-Mercredi-38"
+  route_id: "05"
+}
+vehicle {
+  id: "RLA367"
+}
+position {
+  latitude: 43.7403
+  longitude: 7.27731705
+  bearing: 197
+}
+stop_id: "826"
+timestamp: 1756894723
+
+trip {
+  trip_id: "5203690-68_R_99_6803_12:10-PROJET2024-68-Semaine-15"
+  route_id: "68"
+}
+vehicle {
+  id: "PDV46"
+}
+position {
+  latitude: 43.7706261
+  longitude: 7.20742083
+  bearing: 218
+}
+stop_id: "21262"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6418993-67_R_96_6701_12:10-PROJET2025-67-Mercredi-08"
+  route_id: "67"
+}
+vehicle {
+  id: "PDV91"
+}
+position {
+  latitude: 43.7710762
+  longitude: 7.20029068
+  bearing: 28
+}
+stop_id: "21519"
+timestamp: 1756894721
+
+trip {
+  trip_id: "4515181-80_A_49_8001_12:04-RESEAU2023-80-Semaine-94"
+  route_id: "80"
+}
+vehicle {
+  id: "SUM1754"
+}
+position {
+  latitude: 43.6953087
+  longitude: 7.30714083
+  bearing: 62
+}
+stop_id: "8149"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6471104-22_A_45_2203_11:00-PROJET2025-22-Mercredi-20"
+  route_id: "22"
+}
+vehicle {
+  id: "PDV86"
+}
+position {
+  latitude: 43.7783852
+  longitude: 7.18714714
+  bearing: 163
+}
+stop_id: "21257"
+timestamp: 1756891607
+
+trip {
+  trip_id: "5673215-NVN1_A_48_NVN101_12:15-PROJET2024-NVence1-Semaine-15"
+  route_id: "NVN1"
+}
+vehicle {
+  id: "TCA108186"
+}
+position {
+  latitude: 43.7155037
+  longitude: 7.12323809
+  bearing: 284
+}
+stop_id: "3081"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6443684-07_R_97_0703_12:13-SETP2025-07-Mercredi-41"
+  route_id: "07"
+}
+vehicle {
+  id: "RLA451"
+}
+position {
+  latitude: 43.7014885
+  longitude: 7.2883153
+  bearing: 15
+}
+stop_id: "86"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6409568-57_R_99_5702_08:40-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA619"
+}
+position {
+  latitude: 43.7483368
+  longitude: 7.31933975
+  bearing: 181
+}
+stop_id: "1150"
+timestamp: 1756885421
+
+trip {
+  trip_id: "6419987-35_R_98_3504_12:00-SETP2025-35-Semaine-35"
+  route_id: "35"
+}
+vehicle {
+  id: "RLA1"
+}
+position {
+  latitude: 43.7497368
+  longitude: 7.27863216
+  bearing: 50
+}
+stop_id: "6061"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6416285-51_A_49_5101_10:25-PROJET2025-51-Semaine-10"
+  route_id: "51"
+}
+vehicle {
+  id: "TCA105028"
+}
+position {
+  latitude: 43.6769142
+  longitude: 7.22825813
+  bearing: 133
+}
+stop_id: "2832"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6446932-05_R_49_0506_11:53-SETP2025-05-Mercredi-38"
+  route_id: "05"
+}
+vehicle {
+  id: "RLA356"
+}
+position {
+  latitude: 43.7017174
+  longitude: 7.27126598
+  bearing: 246
+}
+stop_id: "1434"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6443657-07_A_49_0710_12:02-SETP2025-07-Mercredi-41"
+  route_id: "07"
+}
+vehicle {
+  id: "RLA448"
+}
+position {
+  latitude: 43.7255211
+  longitude: 7.28514624
+  bearing: 127
+}
+stop_id: "247"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6252477-11_A_50_1103_11:48-SETP2025-11-Semaine-37"
+  route_id: "11"
+}
+vehicle {
+  id: "RLA365"
+}
+position {
+  latitude: 43.6961594
+  longitude: 7.25628281
+  bearing: 174
+}
+stop_id: "451"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6462520-31_R_97_3101_12:15-PROJET2025-31-Semaine-08"
+  route_id: "31"
+}
+vehicle {
+  id: "TCA74036"
+}
+position {
+  latitude: 43.7177
+  longitude: 7.22382975
+  bearing: 189
+}
+stop_id: "1086"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6416283-51_A_49_5103_12:14-PROJET2025-51-Semaine-10"
+  route_id: "51"
+}
+vehicle {
+  id: "TCA115159"
+}
+position {
+  latitude: 43.6820068
+  longitude: 7.23057079
+  bearing: 35
+}
+stop_id: "617"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6365942-20_R_99_2007_12:17-SETP2025-20-Semaine-42"
+  route_id: "20"
+}
+vehicle {
+  id: "RLA330"
+}
+position {
+  latitude: 43.6844254
+  longitude: 7.18249798
+  bearing: 124
+}
+stop_id: "5164"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6444374-33_R_99_3303_11:30-SETP2025-33-Mercredi-36"
+  route_id: "33"
+}
+vehicle {
+  id: "RLA174"
+}
+position {
+  latitude: 43.7251396
+  longitude: 7.2749157
+  bearing: 180
+}
+stop_id: "243"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6355825-18_A_50_1804_11:39-SETP2025-18-Semaine-39"
+  route_id: "18"
+}
+vehicle {
+  id: "RLA313"
+}
+position {
+  latitude: 43.7255859
+  longitude: 7.25612354
+  bearing: 294
+}
+stop_id: "706"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6368826-09_A_49_0903_12:00-PROJET2025-09-Semaine-35"
+  route_id: "09"
+}
+vehicle {
+  id: "TCA107747"
+}
+position {
+  latitude: 43.6594734
+  longitude: 7.16095448
+  bearing: 108
+}
+stop_id: "4100"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6428287-60_R_99_6002_12:00-PROJET2025-60-Semaine-08"
+  route_id: "chouette:Line:4a8dc505-72e7-4b72-b186-a5b46e94fb82:LOC"
+}
+vehicle {
+  id: "TCA73925"
+}
+position {
+  latitude: 43.6936874
+  longitude: 7.24272346
+  bearing: 88
+}
+stop_id: "178"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6443926-14_R_99_1408_11:55-SETP2025-14-Mercredi-38"
+  route_id: "14"
+}
+vehicle {
+  id: "RLA481"
+}
+position {
+  latitude: 43.7338562
+  longitude: 7.29997635
+  bearing: 70
+}
+stop_id: "7154"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6415999-21_A_50_2102_11:47-SETP2025-21-Semaine-40"
+  route_id: "21"
+}
+vehicle {
+  id: "RLA342"
+}
+position {
+  latitude: 43.6702499
+  longitude: 7.15056562
+  bearing: 172
+}
+stop_id: "4144"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6471126-22_A_45_2206_12:00-PROJET2025-22-Mercredi-20"
+  route_id: "22"
+}
+vehicle {
+  id: "PDV110809"
+}
+position {
+  latitude: 43.7588463
+  longitude: 7.19492912
+  bearing: 12
+}
+stop_id: "21736"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6368845-09_A_50_0907_11:33-PROJET2025-09-Semaine-35"
+  route_id: "09"
+}
+vehicle {
+  id: "TCA108952"
+}
+position {
+  latitude: 43.660244
+  longitude: 7.18052101
+  bearing: 79
+}
+stop_id: "5136"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6365932-20_R_99_2002_12:05-SETP2025-20-Semaine-42"
+  route_id: "20"
+}
+vehicle {
+  id: "RLA338"
+}
+position {
+  latitude: 43.6620331
+  longitude: 7.19300175
+  bearing: 262
+}
+stop_id: "5020"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6369689-30_R_99_3003_12:02-SETP2025-30-Semaine-32"
+  route_id: "30"
+}
+vehicle {
+  id: "RLA101"
+}
+position {
+  latitude: 43.6983566
+  longitude: 7.28635454
+  bearing: 163
+}
+stop_id: "2588"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6429316-15_A_50_1506_11:40-SETP2025-15-Semaine-11"
+  route_id: "15"
+}
+vehicle {
+  id: "RLA316"
+}
+position {
+  latitude: 43.6966476
+  longitude: 7.304708
+  bearing: 1
+}
+stop_id: "8155"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6429246-15_A_50_1507_11:16-SETP2025-15-Semaine-11"
+  route_id: "15"
+}
+vehicle {
+  id: "RLA324"
+}
+position {
+  latitude: 43.7053413
+  longitude: 7.33365965
+  bearing: 281
+}
+stop_id: "8172"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6252431-11_R_98_1108_11:49-SETP2025-11-Semaine-37"
+  route_id: "11"
+}
+vehicle {
+  id: "RLA364"
+}
+position {
+  latitude: 43.7211037
+  longitude: 7.26312113
+  bearing: 13
+}
+stop_id: "210"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6416290-51_R_99_5104_11:52-PROJET2025-51-Semaine-10"
+  route_id: "51"
+}
+vehicle {
+  id: "TCA73914"
+}
+position {
+  latitude: 43.6753387
+  longitude: 7.22704935
+  bearing: 120
+}
+stop_id: "2832"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6428436-61_R_99_6104_12:20-PROJET2025-61-Semaine-24"
+  route_id: "61"
+}
+vehicle {
+  id: "TCA108188"
+}
+position {
+  latitude: 43.692234
+  longitude: 7.24460268
+  bearing: 336
+}
+stop_id: "2829"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6472704-50_R_99_5002_12:10-PROJET2025-50-Semaine-08"
+  route_id: "50"
+}
+vehicle {
+  id: "TCA115157"
+}
+position {
+  latitude: 43.6812325
+  longitude: 7.20547
+  bearing: 13
+}
+stop_id: "2848"
+timestamp: 1756894721
+
+trip {
+  trip_id: "5097940-69_A_40_6901_12:00-PROJET2023-69-Semaine-15"
+  route_id: "69"
+}
+vehicle {
+  id: "PDV76"
+}
+position {
+  latitude: 43.7758751
+  longitude: 7.19079399
+  bearing: 352
+}
+stop_id: "21281"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6443938-14_R_99_1402_12:15-SETP2025-14-Mercredi-38"
+  route_id: "14"
+}
+vehicle {
+  id: "RLA486"
+}
+position {
+  latitude: 43.7082634
+  longitude: 7.28648758
+  bearing: 92
+}
+stop_id: "1250"
+timestamp: 1756894723
+
+trip {
+  trip_id: "4603447-83_R_1_8301_11:45-RESEAU2023-83-Semaine-03"
+  route_id: "83"
+}
+vehicle {
+  id: "SUM1747"
+}
+position {
+  latitude: 43.7078476
+  longitude: 7.33428431
+  bearing: 172
+}
+stop_id: "8198"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6419993-35_A_50_3502_12:32-SETP2025-35-Semaine-35"
+  route_id: "35"
+}
+vehicle {
+  id: "RLA131"
+}
+position {
+  latitude: 43.7085075
+  longitude: 7.28624535
+  bearing: 313
+}
+stop_id: "2686"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6429315-15_A_50_1502_11:28-SETP2025-15-Semaine-11"
+  route_id: "15"
+}
+vehicle {
+  id: "RLA318"
+}
+position {
+  latitude: 43.7074547
+  longitude: 7.31630373
+  bearing: 124
+}
+stop_id: "8123"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6446926-05_A_99_0508_11:56-SETP2025-05-Mercredi-38"
+  route_id: "05"
+}
+vehicle {
+  id: "RLA368"
+}
+position {
+  latitude: 43.7088
+  longitude: 7.27101183
+  bearing: 293
+}
+stop_id: "965"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6077768-58_A_50_5802_11:32-PROJET2025-58-Semaine-06"
+  route_id: "58"
+}
+vehicle {
+  id: "TCA106085"
+}
+position {
+  latitude: 43.6648903
+  longitude: 7.15237427
+  bearing: 254
+}
+stop_id: "4149"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6428316-60_A_50_6001_12:10-PROJET2025-60-Semaine-08"
+  route_id: "chouette:Line:4a8dc505-72e7-4b72-b186-a5b46e94fb82:LOC"
+}
+vehicle {
+  id: "TCA73933"
+}
+position {
+  latitude: 43.6945343
+  longitude: 7.23949528
+  bearing: 237
+}
+stop_id: "154"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6443681-07_R_97_0706_11:44-SETP2025-07-Mercredi-41"
+  route_id: "07"
+}
+vehicle {
+  id: "RLA452"
+}
+position {
+  latitude: 43.7347794
+  longitude: 7.29850483
+  bearing: 79
+}
+stop_id: "1185"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6369775-42_A_5_4203_12:20-PROJET2025-42-Semaine-83"
+  route_id: "42"
+}
+vehicle {
+  id: "TCA108191"
+}
+position {
+  latitude: 43.6534
+  longitude: 7.1371088
+  bearing: 347
+}
+stop_id: "4080"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6369685-30_A_50_3001_11:52-SETP2025-30-Semaine-32"
+  route_id: "30"
+}
+vehicle {
+  id: "RLA133"
+}
+position {
+  latitude: 43.6896439
+  longitude: 7.29593468
+  bearing: 170
+}
+stop_id: "887"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6409581-57_A_50_5706_12:00-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA609"
+}
+position {
+  latitude: 43.7053604
+  longitude: 7.28972387
+  bearing: 299
+}
+stop_id: "1150"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6412270-71_A_50_7101_12:10-PROJET2025-71-Semaine-80"
+  route_id: "71"
+}
+vehicle {
+  id: "TCA117299"
+}
+position {
+  latitude: 43.705246
+  longitude: 7.24877262
+  bearing: 229
+}
+stop_id: "386"
+timestamp: 1756894723
+
+trip {
+  trip_id: "5673237-NVN1_R_98_NVN102_12:15-PROJET2024-NVence1-Semaine-15"
+  route_id: "NVN1"
+}
+vehicle {
+  id: "TCA108187"
+}
+position {
+  latitude: 43.7229462
+  longitude: 7.08742094
+  bearing: 59
+}
+stop_id: "3021"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6409580-57_A_50_5714_11:45-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA616"
+}
+position {
+  latitude: 43.7052765
+  longitude: 7.28932
+  bearing: 200
+}
+stop_id: "1150"
+timestamp: 1756894060
+
+trip {
+  trip_id: "6424132-16_R_97_1602_11:48-SETP2025-16-Semaine-35"
+  route_id: "16"
+}
+vehicle {
+  id: "RLA124"
+}
+position {
+  latitude: 43.723774
+  longitude: 7.273211
+  bearing: 219
+}
+stop_id: "243"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6252432-11_R_97_1105_12:01-SETP2025-11-Semaine-37"
+  route_id: "11"
+}
+vehicle {
+  id: "RLA358"
+}
+position {
+  latitude: 43.7101326
+  longitude: 7.26114845
+  bearing: 98
+}
+stop_id: "1612"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6446922-05_A_98_0509_11:47-SETP2025-05-Mercredi-38"
+  route_id: "05"
+}
+vehicle {
+  id: "RLA361"
+}
+position {
+  latitude: 43.722393
+  longitude: 7.27555561
+  bearing: 26
+}
+stop_id: "65"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6403297-36_R_99_3602_12:03-SETP2025-36-Semaine-33"
+  route_id: "36"
+}
+vehicle {
+  id: "RLA14"
+}
+position {
+  latitude: 43.7274742
+  longitude: 7.27300262
+  bearing: 283
+}
+stop_id: "762"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6443654-07_A_49_0701_11:35-SETP2025-07-Mercredi-41"
+  route_id: "07"
+}
+vehicle {
+  id: "RLA461"
+}
+position {
+  latitude: 43.707695
+  longitude: 7.29268122
+  bearing: 194
+}
+stop_id: "117"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6444400-33_R_99_3305_12:24-SETP2025-33-Mercredi-36"
+  route_id: "33"
+}
+vehicle {
+  id: "RLA173"
+}
+position {
+  latitude: 43.7012024
+  longitude: 7.29187155
+  bearing: 84
+}
+stop_id: "949"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6446777-92_R_3_9201_08:00-PROJET2025-92-Semaine-22"
+  route_id: "92"
+}
+vehicle {
+  id: "TRA233016"
+}
+position {
+  latitude: 43.6934967
+  longitude: 7.19870901
+  bearing: 157
+}
+stop_id: "2835"
+timestamp: 1756886675
+
+trip {
+  trip_id: "6403268-36_A_49_3604_12:03-SETP2025-36-Semaine-33"
+  route_id: "36"
+}
+vehicle {
+  id: "RLA15"
+}
+position {
+  latitude: 43.7255592
+  longitude: 7.25634527
+  bearing: 300
+}
+stop_id: "706"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6218519-84_A_50_8403_11:50-PROJET2025-84-Semaine-04"
+  route_id: "84"
+}
+vehicle {
+  id: "SUM1750"
+}
+position {
+  latitude: 43.7113876
+  longitude: 7.32122183
+  bearing: 358
+}
+stop_id: "8190"
+timestamp: 1756894721
+
+trip {
+  trip_id: "5203683-68_A_50_6801_12:25-PROJET2024-68-Semaine-15"
+  route_id: "68"
+}
+vehicle {
+  id: "PDV9"
+}
+position {
+  latitude: 43.7738609
+  longitude: 7.19274807
+  bearing: 258
+}
+stop_id: "21642"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6444265-17_R_99_1705_11:53-SETP2025-17-Mercredi-35"
+  route_id: "17"
+}
+vehicle {
+  id: "RLA165"
+}
+position {
+  latitude: 43.6764908
+  longitude: 7.22036791
+  bearing: 340
+}
+stop_id: "94"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6257230-63_A_48_6302_11:50-PROJET2025-63-Mercredi-73"
+  route_id: "63"
+}
+vehicle {
+  id: "TCA73939"
+}
+position {
+  latitude: 43.7285728
+  longitude: 7.23759365
+  bearing: 346
+}
+stop_id: "784"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6409578-57_A_50_5703_11:15-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA625"
+}
+position {
+  latitude: 43.7261
+  longitude: 7.25583887
+  bearing: 358
+}
+stop_id: "1476"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6257231-63_A_48_6301_12:10-PROJET2025-63-Mercredi-73"
+  route_id: "63"
+}
+vehicle {
+  id: "TCA73942"
+}
+position {
+  latitude: 43.7101097
+  longitude: 7.25647545
+  bearing: 272
+}
+stop_id: "2980"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6446938-05_A_98_0504_12:05-SETP2025-05-Mercredi-38"
+  route_id: "05"
+}
+vehicle {
+  id: "RLA376"
+}
+position {
+  latitude: 43.7019463
+  longitude: 7.27646255
+  bearing: 21
+}
+stop_id: "312"
+timestamp: 1756894723
+
+trip {
+  trip_id: "4759182-47_R_99_4701_11:45-PROJET2023-47-Semaine-11"
+  route_id: "47"
+}
+vehicle {
+  id: "TCA106086"
+}
+position {
+  latitude: 43.7364693
+  longitude: 7.12523365
+  bearing: 285
+}
+stop_id: "3246"
+timestamp: 1756894723
+
+trip {
+  trip_id: "5838468-52_A_6_5201_12:00-PROJET2025-52-Semaine-20"
+  route_id: "52"
+}
+vehicle {
+  id: "TCA115115"
+}
+position {
+  latitude: 43.7420349
+  longitude: 7.21645451
+  bearing: 327
+}
+stop_id: "1246"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6410628-64_A_50_6403_11:45-SETP2025-64-Semaine-37"
+  route_id: "64"
+}
+vehicle {
+  id: "RLA105"
+}
+position {
+  latitude: 43.7271881
+  longitude: 7.23171282
+  bearing: 9
+}
+stop_id: "583"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6420078-86_A_50_8601_12:10-PROJET2025-86-Mercredi-07"
+  route_id: "86"
+}
+vehicle {
+  id: "SUM1829"
+}
+position {
+  latitude: 43.7443886
+  longitude: 7.31348467
+  bearing: 51
+}
+stop_id: "7010"
+timestamp: 1756894721
+
+trip {
+  trip_id: "5340961-72_A_50_7201_11:35-PROJET2024-72-Semaine-74"
+  route_id: "72"
+}
+vehicle {
+  id: "TCA117300"
+}
+position {
+  latitude: 43.7100945
+  longitude: 7.2557168
+  bearing: 316
+}
+stop_id: "1064"
+timestamp: 1756891809
+
+trip {
+  trip_id: "6444272-17_R_99_1701_12:19-SETP2025-17-Mercredi-35"
+  route_id: "17"
+}
+vehicle {
+  id: "RLA151"
+}
+position {
+  latitude: 43.6911049
+  longitude: 7.19452286
+  bearing: 347
+}
+stop_id: "2816"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6252478-11_A_49_1107_11:58-SETP2025-11-Semaine-37"
+  route_id: "11"
+}
+vehicle {
+  id: "RLA353"
+}
+position {
+  latitude: 43.7099228
+  longitude: 7.25598955
+  bearing: 176
+}
+stop_id: "1349"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6261674-73_A_1_7301_11:34-PROJET2025-73-Semaine-16"
+  route_id: "73"
+}
+vehicle {
+  id: "PDV110805"
+}
+position {
+  latitude: 43.6824265
+  longitude: 7.18898249
+  bearing: 163
+}
+stop_id: "5026"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6218548-84_R_99_8401_12:01-PROJET2025-84-Semaine-04"
+  route_id: "84"
+}
+vehicle {
+  id: "SUM1752"
+}
+position {
+  latitude: 43.70821
+  longitude: 7.32134199
+  bearing: 272
+}
+stop_id: "8082"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6443683-07_R_97_0705_12:03-SETP2025-07-Mercredi-41"
+  route_id: "07"
+}
+vehicle {
+  id: "RLA438"
+}
+position {
+  latitude: 43.7152214
+  longitude: 7.28948116
+  bearing: 19
+}
+stop_id: "2766"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6472660-50_A_50_5001_12:00-PROJET2025-50-Semaine-08"
+  route_id: "50"
+}
+vehicle {
+  id: "TCA115156"
+}
+position {
+  latitude: 43.6897163
+  longitude: 7.20906162
+  bearing: 254
+}
+stop_id: "681"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6252433-11_R_98_1106_12:13-SETP2025-11-Semaine-37"
+  route_id: "11"
+}
+vehicle {
+  id: "RLA359"
+}
+position {
+  latitude: 43.7051544
+  longitude: 7.25089
+  bearing: 192
+}
+stop_id: "1014"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6409609-57_R_99_5712_12:10-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA606"
+}
+position {
+  latitude: 43.7298431
+  longitude: 7.2484
+  bearing: 188
+}
+stop_id: "2826"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6443960-14_A_50_1403_12:04-SETP2025-14-Mercredi-38"
+  route_id: "14"
+}
+vehicle {
+  id: "RLA485"
+}
+position {
+  latitude: 43.7225189
+  longitude: 7.28990459
+  bearing: 191
+}
+stop_id: "25"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6424133-16_R_97_1604_12:18-SETP2025-16-Semaine-35"
+  route_id: "16"
+}
+vehicle {
+  id: "RLA159"
+}
+position {
+  latitude: 43.7307472
+  longitude: 7.24378204
+  bearing: 204
+}
+stop_id: "1040"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6444375-33_R_99_3302_11:48-SETP2025-33-Mercredi-36"
+  route_id: "33"
+}
+vehicle {
+  id: "RLA172"
+}
+position {
+  latitude: 43.7047806
+  longitude: 7.27949429
+  bearing: 20
+}
+stop_id: "1385"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6355786-18_R_99_1807_12:17-SETP2025-18-Semaine-39"
+  route_id: "18"
+}
+vehicle {
+  id: "RLA622"
+}
+position {
+  latitude: 43.7252579
+  longitude: 7.24905348
+  bearing: 71
+}
+stop_id: "1249"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6411440-70_A_50_7001_12:00-SETP2025-70-Semaine-35"
+  route_id: "70"
+}
+vehicle {
+  id: "RLA329"
+}
+position {
+  latitude: 43.7035522
+  longitude: 7.26081944
+  bearing: 60
+}
+stop_id: "458"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6368847-09_A_50_0901_12:33-PROJET2025-09-Semaine-35"
+  route_id: "09"
+}
+vehicle {
+  id: "TCA108671"
+}
+position {
+  latitude: 43.7226944
+  longitude: 7.10724449
+  bearing: 24
+}
+stop_id: "3146"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6368865-09_R_99_0906_12:25-PROJET2025-09-Semaine-35"
+  route_id: "09"
+}
+vehicle {
+  id: "TCA74758"
+}
+position {
+  latitude: 43.6691704
+  longitude: 7.21025753
+  bearing: 87
+}
+stop_id: "5246"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6446818-05_A_98_05S1_11:54-SETP2025-05-Mercredi-38"
+  route_id: "05"
+}
+vehicle {
+  id: "RLA292"
+}
+position {
+  latitude: 43.7135963
+  longitude: 7.27169275
+  bearing: 8
+}
+stop_id: "728"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6409582-57_A_50_5711_12:15-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA615"
+}
+position {
+  latitude: 43.7053261
+  longitude: 7.28987026
+  bearing: 289
+}
+stop_id: "1150"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6444200-17_A_50_1702_11:54-SETP2025-17-Mercredi-35"
+  route_id: "17"
+}
+vehicle {
+  id: "RLA163"
+}
+position {
+  latitude: 43.6747169
+  longitude: 7.21776676
+  bearing: 285
+}
+stop_id: "991"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6252475-11_A_50_1102_11:36-SETP2025-11-Semaine-37"
+  route_id: "11"
+}
+vehicle {
+  id: "RLA375"
+}
+position {
+  latitude: 43.707325
+  longitude: 7.25161028
+  bearing: 18
+}
+stop_id: "1223"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6443655-07_A_49_0707_11:44-SETP2025-07-Mercredi-41"
+  route_id: "07"
+}
+vehicle {
+  id: "RLA434"
+}
+position {
+  latitude: 43.7080421
+  longitude: 7.29276943
+  bearing: 181
+}
+stop_id: "480"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6443919-14_A_50_1407_12:25-SETP2025-14-Mercredi-38"
+  route_id: "14"
+}
+vehicle {
+  id: "RLA483"
+}
+position {
+  latitude: 43.7484474
+  longitude: 7.32084
+  bearing: 149
+}
+stop_id: "7233"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6416000-21_A_50_2101_12:14-SETP2025-21-Semaine-40"
+  route_id: "21"
+}
+vehicle {
+  id: "RLA311"
+}
+position {
+  latitude: 43.6619682
+  longitude: 7.19380331
+  bearing: 242
+}
+stop_id: "5250"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6366017-20_A_50_2003_12:19-SETP2025-20-Semaine-42"
+  route_id: "20"
+}
+vehicle {
+  id: "RLA335"
+}
+position {
+  latitude: 43.6690712
+  longitude: 7.21023798
+  bearing: 40
+}
+stop_id: "2962"
+timestamp: 1756894723
+
+trip {
+  trip_id: "5925310-54_R_98_5402_11:43-PROJET2025-54-Semaine-17"
+  route_id: "54"
+}
+vehicle {
+  id: "TCA106736"
+}
+position {
+  latitude: 43.6616821
+  longitude: 7.19230556
+  bearing: 194
+}
+stop_id: "5220"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6257310-59_R_98_5905_10:56-PROJET2025-59-Semaine-26"
+  route_id: "59"
+}
+vehicle {
+  id: "PDV107"
+}
+position {
+  latitude: 43.6767654
+  longitude: 7.20097065
+  bearing: 216
+}
+stop_id: "2853"
+timestamp: 1756892821
+
+trip {
+  trip_id: "6414848-34_A_26_3401_12:10-PROJET2025-34-Mercredi-20"
+  route_id: "34"
+}
+vehicle {
+  id: "TCA74034"
+}
+position {
+  latitude: 43.6830063
+  longitude: 7.23289251
+  bearing: 222
+}
+stop_id: "1563"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6140110-41_A_5_4101_11:45-PROJET2025-41-Semaine-05"
+  route_id: "41"
+}
+vehicle {
+  id: "TCA106668"
+}
+position {
+  latitude: 43.6862
+  longitude: 7.14983463
+  bearing: 198
+}
+stop_id: "4147"
+timestamp: 1756893843
+
+trip {
+  trip_id: "6413096-38_R_99_3804_12:21-SETP2025-38-Semaine-41"
+  route_id: "38"
+}
+vehicle {
+  id: "RLA42"
+}
+position {
+  latitude: 43.7014046
+  longitude: 7.27482
+  bearing: 315
+}
+stop_id: "2977"
+timestamp: 1756894721
+
+trip {
+  trip_id: "4669788-62_R_98_6204_12:20-RESEAU2023-62-Semaine-17"
+  route_id: "62"
+}
 vehicle {
   id: "TCA1295"
 }
+position {
+  latitude: 43.7656212
+  longitude: 7.22365236
+  bearing: 84
+}
+stop_id: "6033"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6257191-63_R_98_6303_11:40-PROJET2025-63-Mercredi-73"
+  route_id: "63"
+}
+vehicle {
+  id: "TCA73941"
+}
+position {
+  latitude: 43.7093391
+  longitude: 7.25173473
+  bearing: 131
+}
+stop_id: "1615"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6444268-17_R_99_1704_12:06-SETP2025-17-Mercredi-35"
+  route_id: "17"
+}
+vehicle {
+  id: "RLA162"
+}
+position {
+  latitude: 43.6826286
+  longitude: 7.20307732
+  bearing: 164
+}
+stop_id: "916"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6443656-07_A_49_0704_11:53-SETP2025-07-Mercredi-41"
+  route_id: "07"
+}
+vehicle {
+  id: "RLA449"
+}
+position {
+  latitude: 43.7116241
+  longitude: 7.28630447
+  bearing: 98
+}
+stop_id: "67"
+timestamp: 1756894721
+
+trip {
+  trip_id: "4669779-62_A_46_6202_12:15-RESEAU2023-62-Semaine-17"
+  route_id: "62"
+}
+vehicle {
+  id: "TCA73923"
+}
+position {
+  latitude: 43.6937332
+  longitude: 7.24321079
+  bearing: 269
+}
+stop_id: "1619"
+timestamp: 1756894723
+
+trip {
+  trip_id: "6409607-57_R_99_5709_11:40-SETP2025-57-Semaine-06"
+  route_id: "57"
+}
+vehicle {
+  id: "RLA618"
+}
+position {
+  latitude: 43.7022057
+  longitude: 7.26891756
+  bearing: 156
+}
+stop_id: "1354"
+timestamp: 1756894721
+
+trip {
+  trip_id: "6429298-15_A_50_1508_12:05-SETP2025-15-Semaine-11"
+  route_id: "15"
+}
+vehicle {
+  id: "RLA312"
+}
+position {
+  latitude: 43.702877
+  longitude: 7.27707863
+  bearing: 20
+}
+stop_id: "148"
+timestamp: 1756894721
 

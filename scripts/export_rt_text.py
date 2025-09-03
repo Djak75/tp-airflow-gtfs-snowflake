@@ -42,3 +42,4 @@ with open(os.path.join("exports", "vehicle_positions.txt"), "w") as f:
             f.write(str(ent.vehicle))
             f.write("\n")
 print(" export vehicle_positions.txt prêt dans exports/")
+
