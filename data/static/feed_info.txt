@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
-Lignes d'Azur,http://www.lignesdazur.com,fr,20250903,20251202
+Lignes d'Azur,http://www.lignesdazur.com,fr,20250905,20251204

@@ -39,7 +39,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_c
 57,lignes-d-azur,57,Las Planas / Sappia - Riquier,3,https://ftp.lignesdazur.com/ligne_57.pdf,428ABF,FFFFFF
 58,lignes-d-azur,58,Pont des Pugets - Square Bourdet (par Collège A. Malraux),3,https://ftp.lignesdazur.com/ligne_58.pdf,008D3F,FFFFFF
 59,lignes-d-azur,59,Plan du Var - CADAM Centre Administratif,3,https://ftp.lignesdazur.com/ligne_59.pdf,5BC5F2,000000
-60,lignes-d-azur,60,Croix de Berra - Magnan,3,https://ftp.lignesdazur.com/ligne_60.pdf,FFFFFF,000000
+60,lignes-d-azur,60,Croix de Berra - Magnan,3,https://ftp.lignesdazur.com/ligne_60.pdf,F6A421,000000
 61,lignes-d-azur,61,Magnan - Ferber,3,https://ftp.lignesdazur.com/ligne_61.pdf,9677B4,000000
 62,lignes-d-azur,62,Magnan - Fort Casal Colomars - Aspremont Village,3,https://ftp.lignesdazur.com/ligne_62.pdf,35BEEB,FFFFFF
 63,lignes-d-azur,63,Cernuschi - Borriglione (par Saint-Pancrace),3,https://ftp.lignesdazur.com/ligne_63.pdf,D069A3,FFFFFF
@@ -93,7 +93,7 @@ NVN1,lignes-d-azur,NVN1,Camping - Le Taude (par Halte Routière de l'Ara),3,http
 742,lignes-d-azur,742,Collège Jean Franco - Vauban,3,https://ftp.lignesdazur.com/ligne_742.pdf,0067B2,FFFFFF
 743,lignes-d-azur,743,Lycée de la Montagne - Vauban,3,https://ftp.lignesdazur.com/ligne_743.pdf,27A737,FFFFFF
 744,lignes-d-azur,744,Collège Jean Salines - Vauban,3,https://ftp.lignesdazur.com/ligne_744.pdf,0067B2,FFFFFF
-745,lignes-d-azur,745,Vauban - St Martin Vésubie,3,,009640,FFFFFF
+745,lignes-d-azur,745,Vauban - St Martin Vésubie,3,https://ftp.lignesdazur.com/ligne_745.pdf,009640,FFFFFF
 LIso,lignes-d-azur,LIso,Isola 2000 - Isola Village,3,https://ftp.lignesdazur.com/Navette_Isola_Isola_2000.pdf,52AE32,FFFFFF
 81,lignes-d-azur,81,Ariane / Général Saramito - Pnt de Peille/La Condamine,3,https://ftp.lignesdazur.com/ligne_81.pdf,F7D800,1D1D1B
 89,lignes-d-azur,89,Les Chênes Verts - La Colle / Le Château,3,https://ftp.lignesdazur.com/ligne_89.pdf,3D8AC1,FFFFFF
