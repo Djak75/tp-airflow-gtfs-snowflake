@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+airflow.cfg
 
 # Spyder project settings
 .spyderproject
