@@ -38,10 +38,12 @@ pip-delete-this-directory.txt
 
 # --- GTFS: fichiers générés ---
 # sorties temps réel & statique
-exports/**
-data/static/*.txt
-data/static/*.zip
-data/static/*.pb
+/data/static/*.txt
+/data/static/*.zip
+/data/static/*.pb
+/exports/**/*.csv
+/exports/**/*.txt
+/logs/**
 
 # garder les dossiers vides en repo si besoin
 !exports/.gitkeep
