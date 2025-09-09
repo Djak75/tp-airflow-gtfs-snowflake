@@ -177,12 +177,12 @@ def export_vehicle_positions_csv():
 
 # Snowflake : check + tables BRONZE RT 
 create_bronze_rt_tables_sql = [
-    "CREATE DATABASE IF NOT EXISTS GTFS_DB;",
-    "CREATE SCHEMA   IF NOT EXISTS GTFS_DB.BRONZE;",
+    f"CREATE DATABASE IF NOT EXISTS {DB};",
+    f"CREATE SCHEMA   IF NOT EXISTS {DB}.{SCHEMA};",
 
     # TripUpdates
-    """
-    CREATE TABLE IF NOT EXISTS GTFS_DB.BRONZE.trip_updates_raw (
+    f"""
+    CREATE TABLE IF NOT EXISTS {DB}.{SCHEMA}.trip_updates_raw (
         trip_id STRING,
         route_id STRING,
         direction_id NUMBER
@@ -190,8 +190,8 @@ create_bronze_rt_tables_sql = [
     """,
 
     # TripUpdates - stop_time_update (une ligne par arrêt)
-    """
-    CREATE TABLE IF NOT EXISTS GTFS_DB.BRONZE.trip_stop_times (
+    f"""
+    CREATE TABLE IF NOT EXISTS {DB}.{SCHEMA}.trip_stop_times (
         trip_id STRING,
         stop_sequence NUMBER,
         stop_id STRING,
@@ -201,8 +201,8 @@ create_bronze_rt_tables_sql = [
     """,
 
     # VehiclePositions - une ligne par message
-    """
-    CREATE TABLE IF NOT EXISTS GTFS_DB.BRONZE.vehicle_positions_raw (
+    f"""
+    CREATE TABLE IF NOT EXISTS {DB}.{SCHEMA}.vehicle_positions_raw (
         trip_id STRING,
         route_id STRING,
         vehicle_id STRING,
