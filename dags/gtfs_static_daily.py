@@ -1,5 +1,6 @@
 from airflow import DAG
 from airflow.operators.python import PythonOperator
+from airflow.providers.common.sql.operators.sql import SQLExecuteQueryOperator
 from datetime import datetime
 import os, requests, zipfile, logging
 
@@ -33,6 +34,8 @@ def unzip_gtfs_static_zip():
         z.extractall(DATA_DIR)
     logger.info("Dézippé dans : %s", DATA_DIR)
 
+SNOWFLAKE_CONN_ID = "snowflake_conn"
+
 with DAG(
     dag_id="gtfs_static_daily",
     start_date=datetime(2025, 9, 3),
@@ -53,4 +56,56 @@ with DAG(
         python_callable=unzip_gtfs_static_zip,
     )
 
-    t_static_dl >> t_static_unzip
+    snowflake_check = SQLExecuteQueryOperator(
+    task_id="snowflake_check",
+    conn_id=SNOWFLAKE_CONN_ID,
+    sql="SELECT 1;",
+    do_xcom_push=False,
+    )
+
+    create_static_tables = SQLExecuteQueryOperator(
+    task_id="create_static_tables",
+    conn_id=SNOWFLAKE_CONN_ID,
+    sql=[
+        "CREATE DATABASE  IF NOT EXISTS GTFS_DB;",
+        "CREATE SCHEMA    IF NOT EXISTS GTFS_DB.BRONZE_STATIC;",
+
+        """
+        CREATE TABLE IF NOT EXISTS GTFS_DB.BRONZE_STATIC.routes_static (
+          route_id STRING,
+          route_short_name STRING,
+          route_long_name STRING
+        );
+        """,
+        """
+        CREATE TABLE IF NOT EXISTS GTFS_DB.BRONZE_STATIC.trips_static (
+          trip_id STRING,
+          route_id STRING,
+          service_id STRING,
+          direction_id NUMBER,
+          trip_headsign STRING
+        );
+        """,
+        """
+        CREATE TABLE IF NOT EXISTS GTFS_DB.BRONZE_STATIC.stops_static (
+          stop_id STRING,
+          stop_name STRING,
+          stop_lat FLOAT,
+          stop_lon FLOAT
+        );
+        """,
+        """
+        CREATE TABLE IF NOT EXISTS GTFS_DB.BRONZE_STATIC.stop_times_static (
+          trip_id STRING,
+          arrival_time STRING,
+          departure_time STRING,
+          stop_id STRING,
+          stop_sequence NUMBER
+        );
+        """
+    ],
+    do_xcom_push=False,
+    )
+
+    # Ordre de dépendances
+    t_static_dl >> t_static_unzip >> snowflake_check >> create_static_tables
