@@ -36,9 +36,16 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Exports
-.csv
-.txt
+# --- GTFS: fichiers générés ---
+# sorties temps réel & statique
+exports/**
+data/static/*.txt
+data/static/*.zip
+data/static/*.pb
+
+# garder les dossiers vides en repo si besoin
+!exports/.gitkeep
+!data/static/.gitkeep
 
 # Unit test / coverage reports
 htmlcov/
