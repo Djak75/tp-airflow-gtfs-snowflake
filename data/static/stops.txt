@@ -1334,7 +1334,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,location_type,parent_stati
 2633,WMONT1,Paul Montel / Les Moulins,43.673428,7.208554,,0,place_PAUMO,,1
 2635,WDIGU0,Digue des Français,43.676675,7.20602,,0,place_096833,,1
 2636,WDIGU1,Digue des Français,43.676642,7.205943,,0,place_096833,,1
-2637,WCADA0,CADAM,43.676783,7.199178,,0,place_WCADA,,1
+2637,WCADA0,CADAM / Centre Administratif,43.676783,7.199178,,0,place_WCADA,,1
 2643,WPAST1,Hôpital Pasteur,43.723284,7.285424,,0,place_096943,,0
 2644,WPORT1,Port Lympia,43.698322,7.284455,,0,place_PORLYM,,1
 2645,WCADA1,CADAM / Centre Administratif,43.676752,7.199191,,0,place_WCADA,,1
@@ -2858,7 +2858,7 @@ place_097742,,Croix de Fer,43.81486,7.2267,,1,,Europe/Paris,0
 place_098171,,Cros d'Utelle,43.879518,7.233053,,1,,Europe/Paris,0
 place_096812,,Cyrille Besset,43.716789,7.255814,,1,,Europe/Paris,0
 place_098344,,Darse-Capitainerie,43.69738,7.306591,,1,,Europe/Paris,0
-place_097820,,Daudet,43.687561,7.183637,,1,,Europe/Paris,0
+place_097820,,Daudet,43.687119,7.183598,,1,,Europe/Paris,0
 place_096815,,Dauphine,43.684011,7.231118,,1,,Europe/Paris,0
 place_096273,,David,43.717555,7.350039,,1,,Europe/Paris,0
 place_101319,,De Joly / Forestière,43.70455,7.299669,,1,,Europe/Paris,0
@@ -3612,7 +3612,7 @@ place_096103,,Pont de la Manda,43.765794,7.201853,,1,,Europe/Paris,0
 place_098144,,Pont de la Roma,43.744774,7.314963,,1,,Europe/Paris,0
 place_097328,,Pont de l'Ariane / Nice,43.735254,7.301544,,1,,Europe/Paris,0
 place_098145,,Pont de l'Ariane,43.734104,7.301714,,1,,Europe/Paris,0
-place_097883,,Pont des Pugets,43.682605,7.18611,,1,,Europe/Paris,0
+place_097883,,Pont des Pugets,43.682565,7.186085,,1,,Europe/Paris,0
 place_097329,,Pont du Génie,43.738653,7.221693,,1,,Europe/Paris,0
 place_096457,,Pont du Martinet,43.981513,7.317075,,1,,Europe/Paris,0
 place_097729,,Pont Liprandi,43.745903,7.287427,,1,,Europe/Paris,0
@@ -4014,7 +4014,7 @@ place_STSACO,,Collège St-Blaise,44.084274,7.105138,,1,,Europe/Paris,0
 place_VNFCA,,Fort Carré,43.729687,7.125923,,1,,Europe/Paris,0
 place_CAJAD1,,Jade,43.677487,7.157333,,1,,Europe/Paris,0
 place_CAJAD2,,Jade,43.677093,7.15801,,1,,Europe/Paris,0
-place_BOLYC,,La Bolline Lycée,44.070057,7.167949,,1,,Europe/Paris,0
+place_BOLYC,,La Bolline Lycée,44.069722,7.168194,,1,,Europe/Paris,0
 place_ VNLUB,,La Lubiane,43.724231,7.125616,,1,,Europe/Paris,0
 place_VNLAC,,Le Lacet,43.721408,7.135275,,1,,Europe/Paris,0
 place_VNCHE,,Les Chênes,43.730169,7.130914,,1,,Europe/Paris,0
@@ -4035,7 +4035,7 @@ place_ VNVOG,,Vosgelade scolabus,43.717896,7.129377,,1,,Europe/Paris,0
 3256,VNHSL6,Les Hauts de Saint Lambert,43.721584,7.12715,,0,place_ VNHSL,,1
 6189,CSVRO9,Village Roguez,43.771932,7.220208,,0,place_CSVRO9,,1
 3263,VNVOG3,Vosgelade scolabus,43.717896,7.129377,,0,place_ VNVOG,,1
-place_ARCHE,,Hôpital L'Archet,43.697106,7.227571,,1,,Europe/Paris,0
+place_ARCHE,,Hôpital L'Archet,43.697125,7.227605,,1,,Europe/Paris,0
 place_WCADA,,CADAM / Centre Administratif,43.676247,7.198934,,1,,Europe/Paris,0
 place_CARLON,,Carlone,43.693693,7.241908,,1,,Europe/Paris,0
 place_CARLM,,Carlone/Madeleine,43.694154,7.243468,,1,,Europe/Paris,0
