@@ -7,8 +7,14 @@ import os, requests, logging, pendulum
 import pandas as pd
 from google.transit import gtfs_realtime_pb2
 
+# Dossiers montés par docker-compose (volume)
 EXPORTS_DIR = "/opt/airflow/exports"
 SNOWFLAKE_CONN_ID = "snowflake_conn"
+
+# Config projet
+DB      = "GTFS_DB"
+SCHEMA  = "BRONZE"
+RT_STAGE   = "stage_gtfs_rt"
 
 logger = logging.getLogger(__name__)
 
@@ -24,8 +30,7 @@ def current_minute_stamp():
     # heure Paris
     return pendulum.now("Europe/Paris").strftime("%Y%m%d_%H%M")
 
-# --- 1) Export snapshots RT en local (texte lisible) ---
-
+# Export snapshots RT en local (texte lisible)
 def export_trip_updates_snapshot():
     """Télécharge TripUpdates (protobuf) et écrit un texte lisible."""
     ensure_dirs()
@@ -62,8 +67,7 @@ def export_vehicle_positions_snapshot():
                 written += 1
     logger.info("Snapshot VehiclePositions écrit : %s (entités=%d)", out_txt, written)
 
-# --- 1/ RT -> pandas DataFrame -> CSV horodaté (prêt pour Snowflake) ---
-
+# RT -> pandas DataFrame -> CSV horodaté (prêt pour Snowflake) 
 def export_trip_updates_csv():
     """Lit TripUpdates (protobuf) -> 2 DataFrames -> 2 CSV :
        - exports/rt/trip_updates_trips_YYYYMMDD_HHMM.csv   (pour BRONZE.trip_updates_raw)
@@ -90,7 +94,7 @@ def export_trip_updates_csv():
         route_id = tu.trip.route_id or None
         direction_id = tu.trip.direction_id if tu.trip.HasField("direction_id") else None
 
-        # header trip (déduplication par trip_id pendant ce run)
+        # header trip
         if trip_id and trip_id not in seen_trips:
             rows_trips.append((trip_id, route_id, direction_id))
             seen_trips.add(trip_id)
@@ -171,8 +175,7 @@ def export_vehicle_positions_csv():
     df.to_csv(out_csv, index=False)
     logger.info("CSV VehiclePositions écrit : %s (lignes=%d)", out_csv, len(df))
 
-# --- 2/ Snowflake : check + tables BRONZE RT ---
-
+# Snowflake : check + tables BRONZE RT 
 create_bronze_rt_tables_sql = [
     "CREATE DATABASE IF NOT EXISTS GTFS_DB;",
     "CREATE SCHEMA   IF NOT EXISTS GTFS_DB.BRONZE;",
@@ -209,6 +212,44 @@ create_bronze_rt_tables_sql = [
         stop_id STRING,
         timestamp_epoch NUMBER
     );
+    """
+]
+
+# Stage pour les fichiers CSV
+create_rt_stage_sql = f"CREATE STAGE IF NOT EXISTS {DB}.{SCHEMA}.{RT_STAGE};"
+
+# PUT des CSV RT vers le stage
+put_rt_to_stage_sql = [
+    f"PUT file://{EXPORTS_DIR}/rt/trip_updates_trips_*.csv @{DB}.{SCHEMA}.{RT_STAGE} AUTO_COMPRESS=FALSE OVERWRITE=TRUE;",
+    f"PUT file://{EXPORTS_DIR}/rt/trip_updates_stop_times_*.csv @{DB}.{SCHEMA}.{RT_STAGE} AUTO_COMPRESS=FALSE OVERWRITE=TRUE;",
+    f"PUT file://{EXPORTS_DIR}/rt/vehicle_positions_*.csv @{DB}.{SCHEMA}.{RT_STAGE} AUTO_COMPRESS=FALSE OVERWRITE=TRUE;",
+]
+
+# COPY INTO : charger les données du stage vers les tables
+copy_rt_sql = [
+    f"""
+    COPY INTO {DB}.{SCHEMA}.trip_updates_raw
+    FROM @{DB}.{SCHEMA}.{RT_STAGE}
+    PATTERN='.*trip_updates_trips_.*\\.csv'
+    FILE_FORMAT=(TYPE=CSV SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))
+    ON_ERROR='CONTINUE'
+    PURGE=TRUE;
+    """,
+    f"""
+    COPY INTO {DB}.{SCHEMA}.trip_stop_times
+    FROM @{DB}.{SCHEMA}.{RT_STAGE}
+    PATTERN='.*trip_updates_stop_times_.*\\.csv'
+    FILE_FORMAT=(TYPE=CSV SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))
+    ON_ERROR='CONTINUE'
+    PURGE=TRUE;
+    """,
+    f"""
+    COPY INTO {DB}.{SCHEMA}.vehicle_positions_raw
+    FROM @{DB}.{SCHEMA}.{RT_STAGE}
+    PATTERN='.*vehicle_positions_.*\\.csv'
+    FILE_FORMAT=(TYPE=CSV SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))
+    ON_ERROR='CONTINUE'
+    PURGE=TRUE;
     """
 ]
 
@@ -271,5 +312,37 @@ with DAG(
         do_xcom_push=False,
     )
 
-     # Ordre : d'abord on s'assure que le statique du jour est prêt
-    wait_for_static_today >> t_tu_snapshot >> t_vp_snapshot >> [t_tu_csv, t_vp_csv] >> snowflake_connection_check >> create_bronze_rt_tables
+    # Créer le stage RT
+    create_rt_stage = SQLExecuteQueryOperator(
+        task_id="create_rt_stage",
+        conn_id=SNOWFLAKE_CONN_ID,
+        sql=create_rt_stage_sql,
+        do_xcom_push=False,
+    )
+
+    # PUT des CSV RT vers le stage
+    put_rt_to_stage = SQLExecuteQueryOperator(
+        task_id="put_rt_to_stage",
+        conn_id=SNOWFLAKE_CONN_ID,
+        sql=put_rt_to_stage_sql,
+        do_xcom_push=False,
+    )
+
+    # Lister les fichiers dans le stage pour debug
+    list_rt_stage = SQLExecuteQueryOperator(
+        task_id="list_rt_stage",
+        conn_id=SNOWFLAKE_CONN_ID,
+        sql=f"LIST @{DB}.{SCHEMA}.{RT_STAGE};",
+        do_xcom_push=False,
+    )
+
+    # COPY INTO : charger les données du stage vers les tables
+    copy_rt_into_tables = SQLExecuteQueryOperator(
+        task_id="copy_rt_into_tables",
+        conn_id=SNOWFLAKE_CONN_ID,
+        sql=copy_rt_sql,
+        do_xcom_push=False,
+    )
+
+    # Ordre d'exécution
+    wait_for_static_today >> t_tu_snapshot >> t_vp_snapshot >> [t_tu_csv, t_vp_csv] >> snowflake_connection_check >> create_bronze_rt_tables >> create_rt_stage >> put_rt_to_stage >> list_rt_stage >> copy_rt_into_tables
