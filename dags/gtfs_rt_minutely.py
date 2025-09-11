@@ -185,7 +185,8 @@ create_bronze_rt_tables_sql = [
     CREATE TABLE IF NOT EXISTS {DB}.{SCHEMA}.trip_updates_raw (
         trip_id STRING,
         route_id STRING,
-        direction_id NUMBER
+        direction_id NUMBER,
+        insert_date TIMESTAMP_NTZ DEFAULT CAST(CONVERT_TIMEZONE('Europe/Paris', CURRENT_TIMESTAMP()) AS TIMESTAMP_NTZ)
     );
     """,
 
@@ -196,7 +197,8 @@ create_bronze_rt_tables_sql = [
         stop_sequence NUMBER,
         stop_id STRING,
         arrival_time NUMBER,
-        departure_time NUMBER
+        departure_time NUMBER,
+        insert_date TIMESTAMP_NTZ DEFAULT CAST(CONVERT_TIMEZONE('Europe/Paris', CURRENT_TIMESTAMP()) AS TIMESTAMP_NTZ)
     );
     """,
 
@@ -210,7 +212,8 @@ create_bronze_rt_tables_sql = [
         longitude FLOAT,
         bearing FLOAT,
         stop_id STRING,
-        timestamp_epoch NUMBER
+        timestamp_epoch NUMBER,
+        insert_date TIMESTAMP_NTZ DEFAULT CAST(CONVERT_TIMEZONE('Europe/Paris', CURRENT_TIMESTAMP()) AS TIMESTAMP_NTZ)
     );
     """
 ]
@@ -228,7 +231,7 @@ put_rt_to_stage_sql = [
 # COPY INTO : charger les données du stage vers les tables
 copy_rt_sql = [
     f"""
-    COPY INTO {DB}.{SCHEMA}.trip_updates_raw
+    COPY INTO {DB}.{SCHEMA}.trip_updates_raw (trip_id, route_id, direction_id)
     FROM @{DB}.{SCHEMA}.{RT_STAGE}
     PATTERN='.*trip_updates_trips_.*\\.csv'
     FILE_FORMAT=(TYPE=CSV SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))
@@ -236,7 +239,7 @@ copy_rt_sql = [
     PURGE=TRUE;
     """,
     f"""
-    COPY INTO {DB}.{SCHEMA}.trip_stop_times
+    COPY INTO {DB}.{SCHEMA}.trip_stop_times (trip_id, stop_sequence, stop_id, arrival_time, departure_time)
     FROM @{DB}.{SCHEMA}.{RT_STAGE}
     PATTERN='.*trip_updates_stop_times_.*\\.csv'
     FILE_FORMAT=(TYPE=CSV SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))
@@ -244,7 +247,7 @@ copy_rt_sql = [
     PURGE=TRUE;
     """,
     f"""
-    COPY INTO {DB}.{SCHEMA}.vehicle_positions_raw
+    COPY INTO {DB}.{SCHEMA}.vehicle_positions_raw (trip_id, route_id, vehicle_id, latitude, longitude, bearing, stop_id, timestamp_epoch)
     FROM @{DB}.{SCHEMA}.{RT_STAGE}
     PATTERN='.*vehicle_positions_.*\\.csv'
     FILE_FORMAT=(TYPE=CSV SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))

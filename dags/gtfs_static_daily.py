@@ -54,7 +54,8 @@ create_static_tables_sql = [
       route_type NUMBER,
       route_url STRING,
       route_color STRING,
-      route_text_color STRING
+      route_text_color STRING,
+      insert_date TIMESTAMP_NTZ DEFAULT CAST(CONVERT_TIMEZONE('Europe/Paris', CURRENT_TIMESTAMP()) AS TIMESTAMP_NTZ)
     );
     """,
     f"""
@@ -67,7 +68,9 @@ create_static_tables_sql = [
       direction_id NUMBER,
       shape_id STRING,
       wheelchair_accessible NUMBER,
-      bike_allowed NUMBER
+      bike_allowed NUMBER,
+      insert_date TIMESTAMP_NTZ DEFAULT CAST(CONVERT_TIMEZONE('Europe/Paris', CURRENT_TIMESTAMP()) AS TIMESTAMP_NTZ)
+
     );
     """,
     f"""
@@ -81,7 +84,8 @@ create_static_tables_sql = [
       location_type NUMBER,
       parent_station STRING,
       stop_timezone STRING,
-      wheelchair_boarding NUMBER
+      wheelchair_boarding NUMBER,
+      insert_date TIMESTAMP_NTZ DEFAULT CAST(CONVERT_TIMEZONE('Europe/Paris', CURRENT_TIMESTAMP()) AS TIMESTAMP_NTZ)
     );
     """,
     f"""
@@ -92,7 +96,8 @@ create_static_tables_sql = [
       stop_id STRING,
       stop_sequence NUMBER,
       pickup_type NUMBER,
-      drop_off_type NUMBER
+      drop_off_type NUMBER,
+      insert_date TIMESTAMP_NTZ DEFAULT CAST(CONVERT_TIMEZONE('Europe/Paris', CURRENT_TIMESTAMP()) AS TIMESTAMP_NTZ)
     );
     """,
 ]
@@ -111,25 +116,25 @@ put_files_sql = [
 # COPY INTO : charger les données du stage vers les tables
 copy_into_static_tables = [
     f"""
-    COPY INTO {DB}.{SCHEMA}.routes_static
+    COPY INTO {DB}.{SCHEMA}.routes_static (route_id, agency_id, route_short_name, route_long_name, route_type, route_url, route_color, route_text_color)
     FROM @{DB}.{SCHEMA}.{STAGE}/routes.txt
     FILE_FORMAT=(TYPE=CSV FIELD_DELIMITER=',' SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))
     ON_ERROR='CONTINUE';
     """,
     f"""
-    COPY INTO {DB}.{SCHEMA}.trips_static
+    COPY INTO {DB}.{SCHEMA}.trips_static (route_id, service_id, trip_id, trip_headsign, trip_short_name, direction_id, shape_id, wheelchair_accessible, bike_allowed)
     FROM @{DB}.{SCHEMA}.{STAGE}/trips.txt
     FILE_FORMAT=(TYPE=CSV FIELD_DELIMITER=',' SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))
     ON_ERROR='CONTINUE';
     """,
     f"""
-    COPY INTO {DB}.{SCHEMA}.stops_static
+    COPY INTO {DB}.{SCHEMA}.stops_static (stop_id, stop_code, stop_name, stop_lat, stop_lon, zone_id, location_type, parent_station, stop_timezone, wheelchair_boarding)
     FROM @{DB}.{SCHEMA}.{STAGE}/stops.txt
     FILE_FORMAT=(TYPE=CSV FIELD_DELIMITER=',' SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))
     ON_ERROR='CONTINUE';
     """,
     f"""
-    COPY INTO {DB}.{SCHEMA}.stop_times_static
+    COPY INTO {DB}.{SCHEMA}.stop_times_static (trip_id, arrival_time, departure_time, stop_id, stop_sequence, pickup_type, drop_off_type)
     FROM @{DB}.{SCHEMA}.{STAGE}/stop_times.txt
     FILE_FORMAT=(TYPE=CSV FIELD_DELIMITER=',' SKIP_HEADER=1 FIELD_OPTIONALLY_ENCLOSED_BY='\"' NULL_IF=('','NULL','null'))
     ON_ERROR='CONTINUE';
