@@ -217,7 +217,7 @@ with DAG(
     dag_id="gtfs_silver",
     start_date=datetime(2025, 9, 3),
     schedule="*/5 * * * *",  # toutes les 5 minutes
-    catchup=True,
+    catchup=False,
     tags=["GTFS", "silver"],
     default_args={"retries": 0},
     description="Normalisation des données BRONZE vers SILVER (statics et RT)",
